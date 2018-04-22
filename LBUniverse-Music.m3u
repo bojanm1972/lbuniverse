@@ -1,0 +1,503 @@
+#EXTINF:0 type="stream" channelId="-1" tvg-country="HU", Hit Music Channel
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:0 type="stream" channelId="661", Nebiset
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.firstonetv.net/images/logos/cz/RETRO.png", RETRO TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="43" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/85/Mezzo_%282009%29.svg/revision/latest?cb=20171201104609", Mezzo
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/67/index.m3u8
+#EXTINF:0 type="stream" channelId="282" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png", Mezzo Live HD
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://playlist.onlybest.tv/en/channel/78ad82ff7979f9daa5f44464e8788080/153/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Mooz_HD.png/revision/latest?cb=20171011183714", Mooz HD
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/31/Mooz_Hits.png/revision/latest?cb=20171011182312", Mooz Hits
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/88/Mooz_Dance_HD.png/revision/latest?cb=20161213142052", Mooz Dance
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/93/Mooz%21_RO.png/revision/latest?cb=20170829172841", Mooz RO!
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0 type="stream" channelId="2778" tvg-logo="https://cdn.radioplay.se/img/original/4c80dac8dc9e9921.png", The Voice
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://stream.1music.hu/stream/1music.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3a/Virgin_Radio_Logo.png/revision/latest?cb=20130429193636", Virgin Radio
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://fms.105.net:1935/live/virgin1/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/72/Radio105.png/revision/latest?cb=20170903191326", RADIO 105 TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://fms.105.net:1935/live/105Test1/livestream.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0 type="stream" channelId="1181" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/0/03/U-TV-HD.png", U TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0 type="stream" channelId="1139" tvg-logo="http://www.streaming-hub.com/wp-content/uploads/2014/12/radio-monte-carlo.png", Radio Monte Carlo TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo-m2o-plain-nero.jpg", M2O Music
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/FreshTV2016Logo.jpg", Fresh TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+#EXTINF:0 type="stream" channelId="1251", Capital TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/aa/Radiocapital.png", Radio Capital TiVu
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="1131" tvg-logo="https://www.firstonetv.net/images/logos/cz/RETRO.png", HEART TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://listaiptvbrasil.com/logo/hittv.png", HIT TV MUSIC
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+#EXTINF:0 type="stream" channelId="261", JUCE TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.firstonetv.net/images/logos/nl/KLIPKAR_TV.png", Klipkar TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="464", MusicBox UA
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://212.26.132.86/hls/mb_ua.m3u8
+#EXTINF:0 type="stream" channelId="1945", MUZZ ONE
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="29", O2 TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/3hPeV0m.png", Djing TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://www.djing.com/tv/27777-04.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/Loc5W6z.png", DJING HOT HOT
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://www.djing.com/tv/h-01-fta.m3u8
+#EXTINF:0 type="stream" channelId="-1", Djing Ibiza
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://www.djing.com/tv/d-27777-04.m3u8
+#EXTINF:0 type="stream" channelId="2919" tvg-logo="https://i.imgur.com/LBV5z1k.png", DJING ANIMATION HD
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://www.djing.com/tv/a-27777-04.m3u8
+#EXTINF:0 type="stream" channelId="2922" tvg-logo="https://i.imgur.com/gstKD9g.png", Djing Underground
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://www.djing.com/tv/u-27777-04.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/ztD4LZm.png", Djing Summer Vibes
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://www.djing.com/tv/s-27777-03-summer-vibes.m3u8
+#EXTINF:0 type="stream" channelId="-1", Djing Karaoke
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://www.djing.com/tv/k-27777-04.m3u8
+#EXTINF:0 type="stream" channelId="-1", Djing Electro Rock
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:0 type="stream" channelId="-1", tacto francés de Djing
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://soombo.com/assets/images/200_1449003921.png", DJING DANCE FLOOR MUSIC
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://images.viaway.com/7258830_180.png", O1 Music Channel
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://92.249.129.152/stream/1music.m3u8
+#EXTINF:0 type="stream" channelId="2788" tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/AFROMUSIC.png", AFRO MUSIC
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://87.118.138.144:8030/play/a047
+#EXTINF:0 type="stream" channelId="986" tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/DELUXEMUSIC.png", Deluxe Music
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/439/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/DT3DICU.png" tvg-country="US", California Music Channel
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://moziru.com/images/singer-clipart-country-8.jpg", Country Music 4U
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://151.80.20.150:1935/countrymusic4u/countrymusic4u/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/BTiGp2B.png" tvg-country="US", Music Choice
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Alternative
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Brits + Hits
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Dance
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Hip Hop/R&B
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Hit List
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Indie
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Metal
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Pop & Country
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Pop Hits
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - R&B/Soul
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Rap
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Rap 2K
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Rock
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Today's Country
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - 90s
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Throwback Jamz
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Y2K
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Mexicana
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Musica Urbana
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Pop Latino
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Tropicales
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Teen Beats
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png" tvg-country="US", Music Choice - Kidz Only
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/MCGNAMK.png", Music Choice - Toddler Tunes
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png", Portal Fox Mix Tv
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://nextgen-iptv.com/logo/MTVAdria_HR.png" tvg-country="RS", MTV Adria
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://cdn.iptv.amis.net/LIVE/MTV/stream_wifi_1200k.m3u8
+#EXTINF:0 type="stream" channelId="290" tvg-logo="http://tvprofil.net/img/kanali-logo/mtv-rocks-logo.png" tvg-country="RS", MTV Rocks
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226729/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9cUL0yoetz%2BvKdx%2Fd54YxqK%2FOsdKtI%2BMnnOsFROer%2BD4%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001786%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:0 type="stream" channelId="289" tvg-country="RS", MTV Hits
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226763/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9cUL0yoetz%2BvKdx%2Fd54YxqEQ%2Fz0DDv5toouC2cndCCq4%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001787%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:0 type="stream" channelId="146" tvg-country="RS", MTV Dance
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226728/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9cUL0yoetz%2BvKdx%2Fd54YxqH4FbIMHT1QicKJah6bwCLc%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001843%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:0 type="stream" channelId="151" tvg-logo="http://nextgen-iptv.com/logo/VH1_EU.png" tvg-country="RS", VH1
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226595/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9H6UpXS4qyWwkF0IOgqEp0E9zDICvNdpYcMyhVHds2n8%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001816%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:0 type="stream" channelId="149" tvg-logo="http://tvprofil.net/img/kanali-logo/vh1-classic-logo.png" tvg-country="RS", VH1 Classic
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226771/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9cUL0yoetz%2BvKdx%2Fd54YxqKWwzvrPe0nHyEb6BWGC8kg%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001844%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:0 type="stream" channelId="2290" tvg-country="IT", RTL 102.5 TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", R101 TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://hlslive.msf.ticdn.it/hls/CH10/live_Layer2.m3u8
+#EXTINF:0 type="stream" channelId="-1", Company Tv
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", cool hd
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", City Music
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", XITE BASE
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", XITE POP
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="25", Bridge TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://bl.webcaster.pro/media/start/free_9d6a8624a7702dddd15b6c4fbf272152_hd/65_91554723/6b805dbede42bab6bbb6c3b829e4a31b/4639979456.m3u8
+#EXTINF:0 type="stream" channelId="-1", NRJ Hits
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-country="IT", Radio Italia Tv
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:0 type="stream" channelId="-1", Radio Linea N.1 TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://flash2.streaming.xdevel.com/radiolineatv/radiolineatv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Radio Number One TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Radio Contact Vision
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+#EXTINF:0 type="stream" channelId="-1", Radio Universal Tv
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", MVTV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://www.evoiptv.com/hlsmvtv/hlsmvtv.m3u8
+#EXTINF:0 type="stream" channelId="-1", THE COUNTRY NETWORK
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Vibeetv Music Pop
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://tv.releasemyad.com/images/logo/201510131206149xm_logo.png", 9xM
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://ind17-lh.akamaihd.net/i/ind17_9xm@68548/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", 8xm
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/54.m3u8
+#EXTINF:0 type="stream" channelId="-1", Beatz HD
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://beats.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tv Loncho
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://stmv2.srvstm.com/alonso3439/alonso3439/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Surf & Rock TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://str01-prod-par-ar.siglocero.net:1935/SURFANDROCK/SURFANDROCK/chunklist_w860767655.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rock Latino
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8?laope
+#EXTINF:0 type="stream" channelId="-1", Rock One TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:0 type="stream" channelId="-1", Rock Tv
+#EXTBG: #9a0606
+#EXTSIZE: Small
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:0 type="stream" channelId="-1", Canela TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://servicioamerica.com:1935/8154/8154/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Top Latino TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Oye TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/oyetv-live/streamout-360p/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", Power TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Radio 51 TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Radio Bruno
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Radio Taormina TV
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Klik Tv
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://92.62.234.201:11234
+#EXTINF:0 type="stream" channelId="-1", B4uM
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://ind17-lh.akamaihd.net/i/ind17_b4umusic@68543/index_2000_av-p.m3u8?sd=10&dw=7200&b=100-2500&rebase=on
+#EXTINF:0 type="stream" channelId="-1", 1Music
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Music Top
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w437113484_b964000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="1852" tvg-logo="http://tvprofil.net/img/kanali-logo/CMC_TV_logo.png" tvg-country="HR", CMC
+#EXTBG: #982f2f
+#EXTSIZE: Small
+http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-country="RS", Hi Fi Music
+#EXTBG: #982f2f
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226762/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9cUL0yoetz%2BvKdx%2Fd54YxqHaNbgVK65Yvvvdjpa6aN2o%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100002535%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:0 type="stream" channelId="-1", plus tv
+#EXTBG: #982f2f
+#EXTSIZE: Small
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:0 type="stream" channelId="1870" tvg-logo="http://boomtv.club/logo/dmsat.png" tvg-country="RS", Dm Sat
+#EXTBG: #982f2f
+#EXTSIZE: Small
+https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_350k.m3u8
+#EXTINF:0 type="stream" channelId="1990" tvg-logo="http://boomtv.club/logo/kcn2.png" tvg-country="RS", Kcn 2 Music
+#EXTBG: #982f2f
+#EXTSIZE: Small
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+#EXTINF:0 type="stream" channelId="1991" tvg-logo="http://boomtv.club/logo/kcn3.png" tvg-country="RS", Kcn 3 Music
+#EXTBG: #982f2f
+#EXTSIZE: Small
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://nextgen-iptv.com/logo/logo-topsound.png" tvg-country="RS", Top Sound Music
+#EXTBG: #982f2f
+#EXTSIZE: Small
+http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://nextgen-iptv.com/logo/rtv-duga-logo.png" tvg-country="RS", Duga
+#EXTBG: #982f2f
+#EXTSIZE: Small
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-country="RS", Jeka Music
+#EXTBG: #982f2f
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226938/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i2Iy5UmuGx%2BQ3T6s3OLyGjACvdGXJjF%2BT%2FiYYvZnMuc%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100003939%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:0 type="stream" channelId="-1", GD TV
+#EXTBG: #982f2f
+#EXTSIZE: Small
+rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
+#EXTINF:0 type="stream" channelId="1762" tvg-logo="http://logos.kodibg.org/dirbg/242.png" tvg-country="BG", Planeta Hd
+#EXTBG: #b99696
+http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/2gDBhQb.png" tvg-country="AL", ALBMUSIC HD
+#EXTBG: #b99696
+#EXTSIZE: Small
+http://5.226.137.132:8000/live/stalkermaqedonsit45trweyrfdfasdtew/stalkermaqedonsiijdksfheyugt673rfwe/520.ts
+#EXTINF:0 type="stream" channelId="-1", UttarBangla
+#EXTBG: #b99696
+#EXTSIZE: Small
+http://209.58.164.245/uttarbanglahls/live.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeBlack Africa
+#EXTBG: #b99696
+#EXTSIZE: Small
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeBlack Caribbean
+#EXTBG: #b99696
+#EXTSIZE: Small
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeBlack Classik
+#EXTBG: #b99696
+#EXTSIZE: Small
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Slagr TV
+#EXTBG: #b99696
+#EXTSIZE: Small
+http://slagrtv-live-hls.ssl.cdn.cra.cz:80/channels/slagrtv/playlist/cze/live_hq.m3u8
+#EXTINF:0 type="stream" channelId="-1", Desi Beats HD
+#EXTBG: #b99696
+#EXTSIZE: Small
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
