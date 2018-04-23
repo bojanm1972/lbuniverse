@@ -687,6 +687,65 @@ http://evolutioniptv.ninja:420/live/marc.murr@hotmail.com/nwf7oI346S/65624.ts
 #EXTBG: #003e90
 #EXTSIZE: Small
 https://ovh.easyview.eu/hls/e4.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Globalbc.svg/1200px-Globalbc.svg.png" audio-track="CA" subtitles="CA" tvg-country="CA", Global BC
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://vapi.vaders.tv/play/2749.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/CBC_Vancouver_Logo.png" audio-track="CA" subtitles="CA" tvg-country="CA", CBC Vancover
+#EXTBG: #003e90
+http://vapi.vaders.tv/play/2747.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://bellaliant.bell.ca/binaries/small/content/gallery/common_en/tv/channel-logos/ctv-van_new.png" audio-track="CA" subtitles="CA" tvg-country="CA", CTV Vancouver
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://vapi.vaders.tv/play/2748.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.vancitybuzz.com/wp-content/uploads/2012/06/city_tv_vancouver.jpg" audio-track="CA" subtitles="CA" tvg-country="CA", CityTV Vancouver
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://vapi.vaders.tv/play/2822.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://s8226.pcdn.co/wp-content/uploads/2015/01/cbc-montreal.jpg" audio-track="CA" subtitles="CA" tvg-country="CA", CBC Montreal HD
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://vapi.vaders.tv/play/73277.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+#EXTINF:0 type="stream" channelId="1426" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Global_TV_HD.png" audio-track="CA" subtitles="CA" tvg-country="CA", Global HD
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://vapi.vaders.tv/play/2823.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/CBC_HD_logo.svg/2000px-CBC_HD_logo.svg.png" audio-track="CA" subtitles="CA" tvg-country="CA", CBC HD
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://vapi.vaders.tv/play/2818.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/17/CTV_HD.png/revision/latest?cb=20111220140407" audio-track="CA" subtitles="CA" tvg-country="CA", CTV HD
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://vapi.vaders.tv/play/2820.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Citytv_HD_logo.svg/2000px-Citytv_HD_logo.svg.png" audio-track="CA" subtitles="CA" tvg-country="CA", CityTV HD
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://vapi.vaders.tv/play/2821.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+#EXTINF:0 type="stream" channelId="1428" tvg-logo="https://bellaliant.bell.ca/binaries/small/content/gallery/common_en/tv/channel-logos/omni2.png" audio-track="CA" subtitles="CA" tvg-country="CA", OMNI 2 HD
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://vapi.vaders.tv/play/2861.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+#EXTINF:0 type="stream" channelId="1429" tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/CP24HD.png" audio-track="CA" subtitles="CA" tvg-country="CA", CP24 HD
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://vapi.vaders.tv/play/2852.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/chch.png" audio-track="CA" subtitles="CA" tvg-country="CA", CHCH HD
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://vapi.vaders.tv/play/2700.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CTV_News.svg/2000px-CTV_News.svg.png" audio-track="CA" subtitles="CA" tvg-country="CA", CTV News HD
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://vapi.vaders.tv/play/2851.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/CBC_News_Network_HD.png/175px-CBC_News_Network_HD.png" audio-track="CA" subtitles="CA" tvg-country="CA", CBC News HD
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://vapi.vaders.tv/play/2850.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+#EXTINF:0 type="stream" channelId="1435" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Business_News_Network_logo.svg/1200px-Business_News_Network_logo.svg.png" audio-track="CA" subtitles="CA" tvg-country="CA", BNN HD
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://vapi.vaders.tv/play/2704.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:0 type="stream" channelId="40" tvg-logo="https://raw.githubusercontent.com/sabbamafia/Logos/master/CartoonNetwork.png" audio-track="US" aspect-ratio="16:9" subtitles="US" tvg-country="US", Cartoon Network
 #EXTBG: #fff894
 #EXTSIZE: Small
