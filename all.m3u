@@ -100,7 +100,7 @@ http://93.87.85.10/PLTV/88888888/224/3221226932/index.m3u8?rrsip=93.87.85.10&zon
 
 # Pink Channels #e405c7
 # Pink
-#EXTINF:0 type="stream" channelId="1878" audio-track="RS" subtitles="RS" tvg-shift="-2" tvg-country="RS", Pink
+#EXTINF:0 type="stream" channelId="1878" audio-track="RS" subtitles="RS" tvg-shift="2" tvg-country="RS", Pink
 #EXTBG: #e405c7
 #EXTSIZE: Small
 http://93.87.85.10/PLTV/88888888/224/3221225872/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=iqYJcyYidT8C2Bl%2FtFoG6DgmjZLgQE5ptdvsw9qxVxxX22lxGX5K0Pi18lhqjE%2FWrdbPPp%2BHuAvwwCALa4B0d7h5WZHaoIid0utW7YFc6zEU8WehqesG9UbV1RqdeszBb3SVJ%2BEfhzVfIhkCVXfmIwDjJPVew%2BIq5hfbLTR%2BAEc%3D%3A20180118165449%3AUTC%2C290136871858782263%2C89.172.240.133%2C20180118165449%2Curn%3AHuawei%3AliveTV%3AXTV100001191%2C8DDEE42A49F6D93BC86455DB7937814B%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
