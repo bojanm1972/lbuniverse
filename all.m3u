@@ -881,6 +881,17 @@ http://cdnv.cli.tn/iptv/ch931?code=610116485444847
 #EXTBG: #069a34
 #EXTSIZE: Small
 https://robos2.elrobacanales.com/budtv/eventos_wwe_directv_147/playlist.m3u8
+# FS 1
+#EXTINF:0 type="stream" channelId="" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2017/05/FS1-logo.png" audio-track="US" subtitles="US" tvg-country="US", FS 1
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://31.220.0.196:8081/live/fx11sx/playlist.m3u8
+# FS 2
+#EXTINF:0 type="stream" channelId="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" audio-track="US" subtitles="US" tvg-country="US", FS 2
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://31.220.0.196:8081/live/fx2sx/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="992" audio-track="HR" subtitles="HR" tvg-country="HR", HRT 1
 #EXTBG: #000000
 #EXTSIZE: Small
