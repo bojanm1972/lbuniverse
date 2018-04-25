@@ -843,6 +843,31 @@ http://31.220.0.134:8081/live/jtvb1/playlist.m3u8
 #EXTBG: #069a34
 #EXTSIZE: Small
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/59/index.m3u8
+# Sky Sport 1
+#EXTINF:0 type="stream" channelId="1587" audio-track="GB" subtitles="GB" tvg-country="GB", Sky Sport 1
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://cdnv.cli.tn/iptv/ch922?code=610116485444847
+# Sky Sport 2
+#EXTINF:0 type="stream" channelId="1588" audio-track="GB" subtitles="GB" tvg-country="GB", Sky Sport 2
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://cdnv.cli.tn/iptv/ch937?code=610116485444847
+# Sky Sport 3
+#EXTINF:0 type="stream" channelId="1589" audio-track="GB" subtitles="GB" tvg-country="GB", Sky Sport 3
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://cdnv.cli.tn/iptv/ch914?code=610116485444847
+# Sky Sport 4
+#EXTINF:0 type="stream" channelId="1590" audio-track="GB" subtitles="GB" tvg-country="GB", Sky Sport 4
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://cdnv.cli.tn/iptv/ch915?code=610116485444847
+# Sky Sport 5
+#EXTINF:0 type="stream" channelId="3465" audio-track="GB" subtitles="GB" tvg-country="GB", Sky Sport 5
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://cdnv.cli.tn/iptv/ch916?code=610116485444847
 #EXTINF:0 type="stream" channelId="992" audio-track="HR" subtitles="HR" tvg-country="HR", HRT 1
 #EXTBG: #000000
 #EXTSIZE: Small
