@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.tvarenasport.com/images/logo-arenaA1-big.png" audio-track="RS" subtitles="RS" tvg-country="RS", Arena Sport 1
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226643/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeGKQqJOc1YO5YOmiz7KWGr0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002275%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.tvarenasport.com/images/logo-arenaA2-big.png" audio-track="RS" subtitles="RS" tvg-country="RS", Arena Sport 2
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226662/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeHaNbgVK65Yvvvdjpa6aN2o%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001966%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.tvarenasport.com/images/logo-arenaA3-big.png" audio-track="RS" subtitles="RS" tvg-country="RS", Arena Sport 3
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226664/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeKk0gNemuqqQ2V2Ec5VWmJs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001967%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.tvarenasport.com/images/logo-arenaA4-big.png" audio-track="RS" subtitles="RS" tvg-country="RS", Arena Sport 4
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226661/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeK8DY8Ho%2FE6St%2BVWSvqrtEY%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001968%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.tvarenasport.com/images/logo-arenaA5-big.png" audio-track="RS" subtitles="RS" tvg-country="RS", Arena Sport 5
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeBiXPAaui6g8aIyeRBou9ik%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001969%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+# BT Sport 1
+#EXTINF:0 type="stream" channelId="1193" audio-track="GB" subtitles="GB" tvg-country="GB", BT Sport 1
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
+# BT Sport 2
+#EXTINF:0 type="stream" channelId="1195" audio-track="GB" subtitles="GB" tvg-country="GB", BT Sport 2
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
+# BT Sport Extra
+#EXTINF:0 type="stream" channelId="3475" audio-track="GB" subtitles="GB" tvg-country="GB", BT Sport Extra
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
+#EXTINF:0 type="stream" channelId="3365" audio-track="GB" subtitles="GB" tvg-country="GB", Viasat Golf
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/59/index.m3u8
+# Sky Sport 1
+#EXTINF:0 type="stream" channelId="1587" audio-track="GB" subtitles="GB" tvg-country="GB", Sky Sport 1
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://cdnv.cli.tn/iptv/ch922?code=610116485444847
+# Sky Sport 2
+#EXTINF:0 type="stream" channelId="1588" audio-track="GB" subtitles="GB" tvg-country="GB", Sky Sport 2
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://cdnv.cli.tn/iptv/ch937?code=610116485444847
+# Sky Sport 3
+#EXTINF:0 type="stream" channelId="1589" audio-track="GB" subtitles="GB" tvg-country="GB", Sky Sport 3
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://cdnv.cli.tn/iptv/ch914?code=610116485444847
+# Sky Sport 4
+#EXTINF:0 type="stream" channelId="1590" audio-track="GB" subtitles="GB" tvg-country="GB", Sky Sport 4
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://cdnv.cli.tn/iptv/ch915?code=610116485444847
+# Sky Sport 5
+#EXTINF:0 type="stream" channelId="3465" audio-track="GB" subtitles="GB" tvg-country="GB", Sky Sport 5
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://cdnv.cli.tn/iptv/ch916?code=610116485444847
+# Sport Mix
+#EXTINF:0 type="stream" channelId="3540" audio-track="GB" subtitles="GB" tvg-country="GB", Sport Mix
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://cdnv.cli.tn/iptv/ch931?code=610116485444847
+# WWE
+#EXTINF:0 type="stream" channelId="2065" tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2013/07/wwe_logo.png" audio-track="US" subtitles="US" tvg-country="US", WWE
+#EXTBG: #069a34
+#EXTSIZE: Small
+https://robos2.elrobacanales.com/budtv/eventos_wwe_directv_147/playlist.m3u8
+# FS 1
+#EXTINF:0 type="stream" channelId="" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2017/05/FS1-logo.png" audio-track="US" subtitles="US" tvg-country="US", FS 1
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://31.220.0.196:8081/live/fx11sx/playlist.m3u8
+# FS 2
+#EXTINF:0 type="stream" channelId="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" audio-track="US" subtitles="US" tvg-country="US", FS 2
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://31.220.0.196:8081/live/fx2sx/playlist.m3u8
