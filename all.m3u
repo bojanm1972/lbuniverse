@@ -876,6 +876,11 @@ http://cdnv.cli.tn/iptv/ch916?code=610116485444847
 #EXTBG: #069a34
 #EXTSIZE: Small
 http://cdnv.cli.tn/iptv/ch931?code=610116485444847
+# WWE
+#EXTINF:0 type="stream" channelId="2065" tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2013/07/wwe_logo.png" audio-track="US" subtitles="US" tvg-country="US", WWE
+#EXTBG: #069a34
+#EXTSIZE: Small
+https://robos2.elrobacanales.com/budtv/eventos_wwe_directv_147/playlist.m3u8
 #EXTINF:0 type="stream" channelId="992" audio-track="HR" subtitles="HR" tvg-country="HR", HRT 1
 #EXTBG: #000000
 #EXTSIZE: Small
