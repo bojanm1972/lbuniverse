@@ -88,3 +88,13 @@ http://31.220.0.196:8081/live/fx2sx/playlist.m3u8
 #EXTBG: #069a34
 #EXTSIZE: Small
 http://persik.by/stream/3903/293564/99.m3u8
+# FIGHTBOX
+#EXTINF:0 type="stream" channelId="2808" tvg-logo="https://mmsc.metroport.pl/o/epg_large_logos/channel_logo_198_large.png" audio-track="US" subtitles="US" tvg-country="US", FIGHTBOX
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://84.22.58.58:2222/play/a00p/index.m3u8
+# FAST&FUN BOX
+#EXTINF:0 type="stream" channelId="2808" tvg-logo="https://ulango.tv/uploads/channels/3782214/logo_fast%20and%20fun.png" audio-track="US" subtitles="US" tvg-country="US", FAST&FUN BOX
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://84.22.58.58:2222/play/a00o/index.m3u8
