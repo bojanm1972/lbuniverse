@@ -19,7 +19,7 @@ http://62.210.93.115:80/live?channelId=46&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTINF:0 type="stream" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2000px-Logo_Nat_Geo_Wild.svg.png" audio-track="US" subtitles="RS" tvg-country="US", National Geo Wild
 #EXTBG: #ffc494
 #EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=45&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
 
 # Travel Channel
 #EXTINF:0 type="stream" channelId="54" tvg-logo="http://nextgen-iptv.com/logo/TravelChannel_UK.png" audio-track="RS" subtitles="RS" tvg-country="RS", Travel Channel
