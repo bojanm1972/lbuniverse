@@ -66,6 +66,48 @@ http://84.22.58.58:2222/play/a00f/index.m3u8
 #EXTSIZE: Small
 http://84.22.58.58:2222/play/a00m/index.m3u8
 
+# AMC
+#EXTINF:0 type="stream" channelId="2501" tvg-logo="https://www.firstonetv.net/images/logos/us/AMC.png" audio-track="US" subtitles="US" tvg-country="US", AMC
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=24&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# ComedyCentral
+#EXTINF:0 type="stream" channelId="1190" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" audio-track="US" subtitles="US" tvg-country="US", ComedyCentral
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=39&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Syfy
+#EXTINF:0 type="stream" channelId="73" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20170619120040" audio-track="US" subtitles="US" tvg-country="US", Syfy
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=48&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Horror Channel
+#EXTINF:0 type="stream" channelId="3496" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-horror-channel.png" audio-track="US" subtitles="US" tvg-country="US", Horror Channel
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=54&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Drama
+#EXTINF:0 type="stream" channelId="1158" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f1/Drama_%28TV_channel%29_logo.png/revision/latest?cb=20130713161347" audio-track="US" subtitles="US" tvg-country="US", Drama
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=60&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Universal Channel 
+#EXTINF:0 type="stream" channelId="187" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/200px-Universal_Channel_Logo_2013.svg.png" audio-track="US" subtitles="US" tvg-country="US", Universal Channel 
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=68&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Alibi
+#EXTINF:0 type="stream" channelId="1156" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Alibi-logo-2015.png" audio-track="US" subtitles="US" tvg-country="US", Alibi
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=59&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
 
 # Pink Movie and TV shows
 #Pink Premium
