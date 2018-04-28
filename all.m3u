@@ -699,29 +699,175 @@ http://93.87.85.10/PLTV/88888888/224/3221226938/index.m3u8?rrsip=93.87.85.10&zon
 rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
 
 #Documentary
+#EXTINF: group-title="Documentary"
+
+# Nat Geo CA HD
 #EXTINF:0 type="stream" channelId="207" audio-track="CA" subtitles="CA" tvg-country="CA", Nat Geo CA HD
 #EXTBG: #ffc494
 #EXTSIZE: Small
 http://vapi.vaders.tv/play/73285.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
-#EXTINF:0 type="stream" channelId="54" audio-track="RS" subtitles="RS" tvg-country="RS", Travel Channel
+
+# National Geographic
+#EXTINF:0 type="stream" channelId="56" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" audio-track="US" subtitles="RS" tvg-country="US", National Geographic
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=46&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# National Geo Wild
+#EXTINF:0 type="stream" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2000px-Logo_Nat_Geo_Wild.svg.png" audio-track="US" subtitles="RS" tvg-country="US", National Geo Wild
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=45&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Travel Channel
+#EXTINF:0 type="stream" channelId="54" tvg-logo="http://nextgen-iptv.com/logo/TravelChannel_UK.png" audio-track="RS" subtitles="RS" tvg-country="RS", Travel Channel
 #EXTBG: #ffc494
 #EXTSIZE: Small
 http://93.87.85.10/PLTV/88888888/224/3221226890/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qNtgfBDs7umS%2FENTcD6cSOR%2BP9zkSCW4F87X4rKsEJA%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001205%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+
 # Discovery
 #EXTINF:0 type="stream" channelId="57" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" audio-track="US" subtitles="RS" tvg-country="RS", Discovery
 #EXTBG: #ffc494
 #EXTSIZE: Small
 http://84.22.58.58:2222/play/a02q/index.m3u8
+
+# Discovery World
+#EXTINF:0 type="stream" channelId="2839" tvg-logo="http://nextgen-iptv.com/logo/discovery%20science.png" audio-track="US" subtitles="RS" tvg-country="RS", Discovery World
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4424.ts
+
+# Discovery Showcase HD
+#EXTINF:0 type="stream" channelId="241" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Discovery_Showcase_HD.png/revision/latest?cb=20161213133625" audio-track="US" subtitles="RS" tvg-country="RS", Discovery Showcase HD
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4425.ts
+
+# Discovery Science HD
+#EXTINF:0 type="stream" channelId="1508" tvg-logo="http://tvprofil.net/img/kanali-logo/Discovery_Science_logo.png" audio-track="US" subtitles="RS" tvg-country="RS", Discovery Science HD
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/42.ts
+
+# Discovery Sheed
+#EXTINF:0 type="stream" channelId="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Discovery_Shed.png" audio-track="US" subtitles="RS" tvg-country="RS", Discovery Sheed
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4426.ts
+
+# Discovery History
+#EXTINF:0 type="stream" channelId="3485" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-discovery-history.png" audio-track="US" subtitles="RS" tvg-country="RS", Discovery History
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=33&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Discovery Turbo
+#EXTINF:0 type="stream" channelId="2840" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" audio-track="US" subtitles="RS" tvg-country="RS", Discovery Turbo
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=35&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Discovery ID
+#EXTINF:0 type="stream" channelId="" tvg-logo="http://tvprofil.net/img/kanali-logo/investigation-discovery-logo.png" audio-track="US" subtitles="RS" tvg-country="RS", Discovery ID
+#EXTBG: #ffc494
+#EXTSIZE: Small
+https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
+
+# Crime and Investigation
+#EXTINF:0 type="stream" channelId="1189" tvg-logo="http://www.neeo.es/wp-content/uploads/nuevo-logo-crimen.png" audio-track="US" subtitles="RS" tvg-country="RS", Crime and Investigation
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=41&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
 # ANIMAL PLANET
 #EXTINF:0 type="stream" channelId="50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/2000px-Animal_Planet_logo.svg.png" audio-track="US" subtitles="RS" tvg-country="RS", ANIMAL PLANET
 #EXTBG: #ffc494
 #EXTSIZE: Small
 http://84.22.58.58:2222/play/a026/index.m3u8
+
 # DOCUBOX
 #EXTINF:0 type="stream" channelId="672" tvg-logo="http://www.arenamundo.com/wp-content/uploads/2016/11/docubox-logo.png" audio-track="US" subtitles="RS" tvg-country="RS", DOCUBOX
 #EXTBG: #ffc494
 #EXTSIZE: Small
 http://84.22.58.58:2222/play/a00n/index.m3u8
+
+# History
+#EXTINF:0 type="stream" channelId="1455" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png" audio-track="US" subtitles="RS" tvg-country="RS", History
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=43&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# H2
+#EXTINF:0 type="stream" channelId="1201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" audio-track="US" subtitles="RS" tvg-country="RS", H2
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=44&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Lov i Ribolov
+#EXTINF:0 type="stream" channelId="" tvg-logo="http://www.musicar.rs/wp-content/uploads/2014/03/1607054_191157701094968_72693872_n.png" audio-track="RS" subtitles="RS" tvg-country="RS", Lov i Ribolov
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://cdn.iptv.amis.net/ts/FISHUN/stream_iptv_2000k.m3u8
+
+# Hunt Channel
+#EXTINF:0 type="stream" channelId="" tvg-logo="https://i1.wp.com/huntinglife.com/wp-content/uploads/2015/06/HuntChannel.png?ssl=1" audio-track="RS" subtitles="RS" tvg-country="US", Hunt Channel
+#EXTBG: #ffc494
+#EXTSIZE: Small
+https://nimble.huntchannel.tv/abr/huntchannel/live/huntchannelhq/chunks.m3u8
+
+# BBC Earth
+#EXTINF:0 type="stream" channelId="3192" tvg-logo="http://tvprofil.net/img/kanali-logo/BBCearth_logo.png" audio-track="RS" subtitles="RS" tvg-country="RS", BBC Earth
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://93.87.85.69/PLTV/88888888/224/3221226856/04.m3u8?accountinfo=tRq5adXMPA9yBy2DAMIaTD2venSJc9eog%2BDm8B%2Fsnps1wI2FVpfl5ZQwfr%2Bdtoa7Knbs%2Ftk5dSNqxf0gPjladuklJUT%2FHynvMVAISaHor5CjAwYvPjudXUXZu0MNxYV2dqQozxFE3ubHt2EYMx4IKxmfEuuTqSUg0xreoLdh%2BsZtdpZjgWkl7Gd4IUs%2FxBc1%3A20170128230138%3AUTC%2C291914713%2C178.149.161.79%2C20170128230138%2Curn%3AHuawei%3AliveTV%3AXTV100001846%2C7BDB39A708E7B03F45DBCCDE137C7499%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cpurko10%2C0%2Cpurko10%2C8qq9oY8SId6D5hQCjHHJc878Pck%3D%2C2%2C,END&GuardEncType=2
+
+# Viasat History
+#EXTINF:0 type="stream" channelId="166" tvg-logo="http://www.viasatworld.com/media/1067/historylogo.png" audio-track="RS" subtitles="RS" tvg-country="RS", Viasat History
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226592/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNGYPXMJYZGhCSdJ8Wg4wrz8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001817%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+
+# Viasat Explore
+#EXTINF:0 type="stream" channelId="165" tvg-logo="http://www.viasatworld.com/media/1045/explore.png" audio-track="RS" subtitles="RS" tvg-country="RS", Viasat Explore
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226593/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNITetKXkxKb%2FLn%2BDS1CmTnU%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001819%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+
+# DMAX
+#EXTINF:0 type="stream" channelId="978" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/734_300.png" audio-track="US" subtitles="RS" tvg-country="RS", DMAX
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=37&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Eden HD
+#EXTINF:0 type="stream" channelId="3488" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/1200px-Yesterday_logo_2012.svg.png" audio-track="GB" subtitles="RS" tvg-country="GB", Eden HD
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=62&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Yesterday
+#EXTINF:0 type="stream" channelId="1165" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/734_300.png" audio-track="GB" subtitles="RS" tvg-country="GB", Yesterday
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=66&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# English Club TV
+#EXTINF:0 type="stream" channelId="51" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Eden_logo.png/200px-Eden_logo.png" audio-track="RS" subtitles="RS" tvg-country="RS", English Club TV
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226668/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeHqgMjr%2F2P6e2bdqDPe7Lmo%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002776%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+
+# Kitchen TV
+#EXTINF:0 type="stream" channelId="" tvg-logo="http://tvprofil.net/img/kanali-logo/KitchenTV-_logo.png" audio-track="RS" subtitles="RS" tvg-country="RS", Kitchen TV
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226809/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qNtgfBDs7umS%2FENTcD6cSLPhQWpGNHF5lwWDnzSaVDg%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100003496%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+
+# Food Network
+#EXTINF:0 type="stream" channelId="1244" tvg-logo="https://seeklogo.com/images/F/food-network-logo-9D0CB10F04-seeklogo.com.png" audio-track="" subtitles="RS" tvg-country="", Food Network
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=58&uid=2454&deviceMac=00:1A:79:3C:C9:29
 
 
 # Zabava
@@ -754,6 +900,9 @@ http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
 #EXTBG: #3a069a
 #EXTSIZE: Small
 http://84.22.58.58:2222/play/a027/index.m3u8
+# English
+#EXTINF: group-title="English"
+
 #EXTINF:0 type="stream" channelId="1208" tvg-logo="003e90" audio-track="US" subtitles="US" tvg-country="US", A&E
 #EXTBG: #003e90
 #EXTSIZE: Small
@@ -762,10 +911,6 @@ http://evolutioniptv.ninja:420/live/marc.murr@hotmail.com/nwf7oI346S/77788.ts
 #EXTBG: #003e90
 #EXTSIZE: Small
 http://evolutioniptv.ninja:420/live/marc.murr@hotmail.com/nwf7oI346S/65624.ts
-#EXTINF:0 type="stream" channelId="1224" audio-track="GB" subtitles="GB" tvg-country="GB", E4
-#EXTBG: #003e90
-#EXTSIZE: Small
-https://ovh.easyview.eu/hls/e4.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Globalbc.svg/1200px-Globalbc.svg.png" audio-track="CA" subtitles="CA" tvg-country="CA", Global BC
 #EXTBG: #003e90
 #EXTSIZE: Small
@@ -825,6 +970,138 @@ http://vapi.vaders.tv/play/2850.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwM
 #EXTBG: #003e90
 #EXTSIZE: Small
 http://vapi.vaders.tv/play/2704.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+# ABC News
+#EXTINF:0 type="stream" channelId="1944" tvg-logo="https://mediakit.go.com/wp-content/uploads/2017/03/logo_abc_news.png" audio-track="CA" subtitles="CA" tvg-country="CA", ABC News
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+# E4
+#EXTINF:0 type="stream" channelId="1224" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/1073px-E4_%28channel%29_logo.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", E4
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=19&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# More4
+#EXTINF:0 type="stream" channelId="1223" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/More4_2012.svg/revision/latest/scale-to-width-down/200?cb=20180402191345" audio-track="GB" subtitles="GB" tvg-country="GB", More4
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=20&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# LUXE TV
+#EXTINF:0 type="stream" channelId="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Luxe-TV-Logo.svg/2000px-Luxe-TV-Logo.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", LUXE TV
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://84.22.58.58:2222/play/a01s/index.m3u8
+
+# Pick
+#EXTINF:0 type="stream" channelId="1168" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cf/Pick2013.png/revision/latest?cb=20131004183440" audio-track="GB" subtitles="GB" tvg-country="GB", Pick
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://84.22.58.58:2222/play/a01s/index.m3u8
+
+# Channel 4 HD
+#EXTINF:0 type="stream" channelId="1258" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/2000px-Channel_4_logo_2015.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", Channel 4 HD
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=8&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Channel 4
+#EXTINF:0 type="stream" channelId="1210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/2000px-Channel_4_logo_2015.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", Channel 4
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=9&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Channel 4 plus 1
+#EXTINF:0 type="stream" channelId="" tvg-logo="https://i.pinimg.com/originals/1b/d0/25/1bd025ff743367cec5c01bc0c871e268.jpg" audio-track="GB" subtitles="GB" tvg-country="GB", Channel 4 plus 1
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=10&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Channel 5 HD
+#EXTINF:0 type="stream" channelId="3481" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/Channel5HD.png/revision/latest?cb=20130503223935" audio-track="GB" subtitles="GB" tvg-country="GB", Channel 5 HD
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=11&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Channel 5
+#EXTINF:0 type="stream" channelId="1199" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Channel_5_logo_2011.svg/2000px-Channel_5_logo_2011.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", Channel 5
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=12&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Channel 5 plus 1
+#EXTINF:0 type="stream" channelId="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Channel5_1.png/revision/latest?cb=20130503223912" audio-track="GB" subtitles="GB" tvg-country="GB", Channel 5 plus 1
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=13&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# 4seven
+#EXTINF:0 type="stream" channelId="1227" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/4seven_%28logo%29.svg/1200px-4seven_%28logo%29.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", 4seven
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=18&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# 5USA
+#EXTINF:0 type="stream" channelId="1235" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/2000px-5USA_logo.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", 5USA
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=21&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# 5Star
+#EXTINF:0 type="stream" channelId="3461" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/5_Star_logo_2016.png/revision/latest?cb=20160217080759" audio-track="GB" subtitles="GB" tvg-country="GB", 5Star
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=22&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Home
+#EXTINF:0 type="stream" channelId="1162" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Home_logo_%28UKTV%29.svg/1200px-Home_logo_%28UKTV%29.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", Home
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=57&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Blaze
+#EXTINF:0 type="stream" channelId="3462" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2018/04/BLAZE_LOGO-990x556.png" audio-track="GB" subtitles="GB" tvg-country="GB", Blaze
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=38&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Lifetime
+#EXTINF:0 type="stream" channelId="1200" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/Lifetime_2013.png/revision/latest?cb=20150531221814" audio-track="GB" subtitles="GB" tvg-country="GB", Lifetime
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=49&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Dave
+#EXTINF:0 type="stream" channelId="1157" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Dave.svg/2000px-Dave.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", Dave
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=51&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Dave ja vu
+#EXTINF:0 type="stream" channelId="1234" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Dave_ja_vu.png" audio-track="GB" subtitles="GB" tvg-country="GB", Dave ja vu
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=52&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# E!
+#EXTINF:0 type="stream" channelId="1188" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/712_300.png" audio-track="GB" subtitles="GB" tvg-country="GB", E!
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=61&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Really
+#EXTINF:0 type="stream" channelId="1163" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Really_logo_2013.svg/1280px-Really_logo_2013.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", Really
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=65&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# W
+#EXTINF:0 type="stream" channelId="" tvg-logo="https://vignette.wikia.nocookie.net/eastenders/images/9/92/UKTV_channel_W_logo.png/revision/latest?cb=20160506185027" audio-track="GB" subtitles="GB" tvg-country="GB", W
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=67&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
 # Cartoon Network
 #EXTINF:0 type="stream" channelId="40" tvg-logo="https://raw.githubusercontent.com/sabbamafia/Logos/master/CartoonNetwork.png" audio-track="US" aspect-ratio="16:9" subtitles="US" tvg-country="US", Cartoon Network
 #EXTBG: #fff894
@@ -1005,3 +1282,9 @@ http://slagrtv-live-hls.ssl.cdn.cra.cz:80/channels/slagrtv/playlist/cze/live_hq.
 #EXTBG: #b99696
 #EXTSIZE: Small
 http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+
+# Fashion
+# Fashion TV
+#EXTINF:0 type="stream" channelId="" tvg-logo="http://nextgen-iptv.com/logo/fashion%20tv.png" tvg-country="BG", Fashion TV
+#EXTBG: #8a8a8a
+http://cdn.iptv.amis.net/ts/FASHION/stream_iptv_2000k.m3u8

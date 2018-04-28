@@ -1,4 +1,8 @@
 #EXTM3U
+
+# English
+#EXTINF: group-title="English"
+
 #EXTINF:0 type="stream" channelId="1208" tvg-logo="003e90" audio-track="US" subtitles="US" tvg-country="US", A&E
 #EXTBG: #003e90
 #EXTSIZE: Small
@@ -7,11 +11,6 @@ http://evolutioniptv.ninja:420/live/marc.murr@hotmail.com/nwf7oI346S/77788.ts
 #EXTBG: #003e90
 #EXTSIZE: Small
 http://evolutioniptv.ninja:420/live/marc.murr@hotmail.com/nwf7oI346S/65624.ts
-# E4
-#EXTINF:0 type="stream" channelId="1224" audio-track="GB" subtitles="GB" tvg-country="GB", E4
-#EXTBG: #003e90
-#EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=19&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Globalbc.svg/1200px-Globalbc.svg.png" audio-track="CA" subtitles="CA" tvg-country="CA", Global BC
 #EXTBG: #003e90
 #EXTSIZE: Small
@@ -76,6 +75,19 @@ http://vapi.vaders.tv/play/2704.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwM
 #EXTBG: #003e90
 #EXTSIZE: Small
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+# E4
+#EXTINF:0 type="stream" channelId="1224" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/1073px-E4_%28channel%29_logo.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", E4
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=19&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# More4
+#EXTINF:0 type="stream" channelId="1223" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/More4_2012.svg/revision/latest/scale-to-width-down/200?cb=20180402191345" audio-track="GB" subtitles="GB" tvg-country="GB", More4
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=20&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
 # LUXE TV
 #EXTINF:0 type="stream" channelId="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Luxe-TV-Logo.svg/2000px-Luxe-TV-Logo.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", LUXE TV
 #EXTBG: #003e90
@@ -87,3 +99,105 @@ http://84.22.58.58:2222/play/a01s/index.m3u8
 #EXTBG: #003e90
 #EXTSIZE: Small
 http://84.22.58.58:2222/play/a01s/index.m3u8
+
+# Channel 4 HD
+#EXTINF:0 type="stream" channelId="1258" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/2000px-Channel_4_logo_2015.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", Channel 4 HD
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=8&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Channel 4
+#EXTINF:0 type="stream" channelId="1210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/2000px-Channel_4_logo_2015.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", Channel 4
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=9&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Channel 4 plus 1
+#EXTINF:0 type="stream" channelId="" tvg-logo="https://i.pinimg.com/originals/1b/d0/25/1bd025ff743367cec5c01bc0c871e268.jpg" audio-track="GB" subtitles="GB" tvg-country="GB", Channel 4 plus 1
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=10&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Channel 5 HD
+#EXTINF:0 type="stream" channelId="3481" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/Channel5HD.png/revision/latest?cb=20130503223935" audio-track="GB" subtitles="GB" tvg-country="GB", Channel 5 HD
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=11&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Channel 5
+#EXTINF:0 type="stream" channelId="1199" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Channel_5_logo_2011.svg/2000px-Channel_5_logo_2011.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", Channel 5
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=12&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Channel 5 plus 1
+#EXTINF:0 type="stream" channelId="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Channel5_1.png/revision/latest?cb=20130503223912" audio-track="GB" subtitles="GB" tvg-country="GB", Channel 5 plus 1
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=13&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# 4seven
+#EXTINF:0 type="stream" channelId="1227" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/4seven_%28logo%29.svg/1200px-4seven_%28logo%29.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", 4seven
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=18&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# 5USA
+#EXTINF:0 type="stream" channelId="1235" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/2000px-5USA_logo.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", 5USA
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=21&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# 5Star
+#EXTINF:0 type="stream" channelId="3461" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/5_Star_logo_2016.png/revision/latest?cb=20160217080759" audio-track="GB" subtitles="GB" tvg-country="GB", 5Star
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=22&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Home
+#EXTINF:0 type="stream" channelId="1162" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Home_logo_%28UKTV%29.svg/1200px-Home_logo_%28UKTV%29.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", Home
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=57&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Blaze
+#EXTINF:0 type="stream" channelId="3462" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2018/04/BLAZE_LOGO-990x556.png" audio-track="GB" subtitles="GB" tvg-country="GB", Blaze
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=38&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Lifetime
+#EXTINF:0 type="stream" channelId="1200" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1e/Lifetime_2013.png/revision/latest?cb=20150531221814" audio-track="GB" subtitles="GB" tvg-country="GB", Lifetime
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=49&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Dave
+#EXTINF:0 type="stream" channelId="1157" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Dave.svg/2000px-Dave.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", Dave
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=51&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Dave ja vu
+#EXTINF:0 type="stream" channelId="1234" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Dave_ja_vu.png" audio-track="GB" subtitles="GB" tvg-country="GB", Dave ja vu
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=52&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# E!
+#EXTINF:0 type="stream" channelId="1188" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/712_300.png" audio-track="GB" subtitles="GB" tvg-country="GB", E!
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=61&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Really
+#EXTINF:0 type="stream" channelId="1163" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Really_logo_2013.svg/1280px-Really_logo_2013.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", Really
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=65&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# W
+#EXTINF:0 type="stream" channelId="" tvg-logo="https://vignette.wikia.nocookie.net/eastenders/images/9/92/UKTV_channel_W_logo.png/revision/latest?cb=20160506185027" audio-track="GB" subtitles="GB" tvg-country="GB", W
+#EXTBG: #003e90
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=67&uid=2454&deviceMac=00:1A:79:3C:C9:29
