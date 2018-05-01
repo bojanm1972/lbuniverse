@@ -298,6 +298,7 @@ http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
 #EXTSIZE: Small
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
 # 360TUNEBOX
+# 360TUNEBOX
 #EXTINF:0 type="stream" channelId="" tvg-logo="http://smartel.rs/wp-content/uploads/2016/03/360-tunebox-logo.png" tvg-country="HU", 360TUNEBOX
 #EXTBG: #9a0606
 #EXTSIZE: Small
@@ -459,10 +460,10 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/439/inde
 #EXTBG: #9a0606
 #EXTSIZE: Small
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://moziru.com/images/singer-clipart-country-8.jpg", Country Music 4U
-#EXTBG: #9a0606
-#EXTSIZE: Small
-http://151.80.20.150:1935/countrymusic4u/countrymusic4u/playlist.m3u8
+# #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://moziru.com/images/singer-clipart-country-8.jpg", Country Music 4U
+# #EXTBG: #9a0606
+# #EXTSIZE: Small
+# http://151.80.20.150:1935/countrymusic4u/countrymusic4u/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/BTiGp2B.png" tvg-country="US", Music Choice
 #EXTBG: #9a0606
 #EXTSIZE: Small
@@ -586,7 +587,7 @@ http://93.87.85.10/PLTV/88888888/224/3221226728/index.m3u8?rrsip=93.87.85.10&zon
 #EXTINF:0 type="stream" channelId="151" tvg-logo="http://nextgen-iptv.com/logo/VH1_EU.png" tvg-country="RS", VH1
 #EXTBG: #9a0606
 #EXTSIZE: Small
-http://93.87.85.10/PLTV/88888888/224/3221226595/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9H6UpXS4qyWwkF0IOgqEp0E9zDICvNdpYcMyhVHds2n8%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001816%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/238/index.m3u8
 #EXTINF:0 type="stream" channelId="149" tvg-logo="http://tvprofil.net/img/kanali-logo/vh1-classic-logo.png" tvg-country="RS", VH1 Classic
 #EXTBG: #9a0606
 #EXTSIZE: Small
@@ -594,7 +595,7 @@ http://93.87.85.10/PLTV/88888888/224/3221226771/index.m3u8?rrsip=93.87.85.10&zon
 #EXTINF:0 type="stream" channelId="2290" tvg-country="IT", RTL 102.5 TV
 #EXTBG: #9a0606
 #EXTSIZE: Small
-https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/playlist.m3u8
+http://playlist.onlybest.tv/en/channel/7721e3d44b99b8168ae5debce8c60a07/840/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", R101 TV
 #EXTBG: #9a0606
 #EXTSIZE: Small
@@ -663,10 +664,10 @@ http://46.101.21.42:8081/live/live2/playlist.m3u8
 #EXTBG: #9a0606
 #EXTSIZE: Small
 http://ind17-lh.akamaihd.net/i/ind17_9xm@68548/master.m3u8
-#EXTINF:0 type="stream" channelId="-1", 8xm
-#EXTBG: #9a0606
-#EXTSIZE: Small
-https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/54.m3u8
+# #EXTINF:0 type="stream" channelId="-1", 8xm
+# #EXTBG: #9a0606
+# #EXTSIZE: Small
+# https://cdn2.mjunoon.tv:25463/live/CDN/MJUNOON/54.m3u8
 #EXTINF:0 type="stream" channelId="-1", Beatz HD
 #EXTBG: #9a0606
 #EXTSIZE: Small
@@ -730,16 +731,11 @@ https://ind17-lh.akamaihd.net/i/ind17_b4umusic@68543/index_2000_av-p.m3u8?sd=10&
 #EXTINF:0 type="stream" channelId="-1", 1Music
 #EXTBG: #9a0606
 #EXTSIZE: Small
-http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
+http://stream.1music.hu/stream/1music.m3u8
 #EXTINF:0 type="stream" channelId="-1", Music Top
 #EXTBG: #9a0606
 #EXTSIZE: Small
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w437113484_b964000_sleng.m3u8
-# 21MIX HD
-#EXTINF:0 type="stream" channelId="" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/RTV21Mix_logo_5a03b4dd5fcbd.png" tvg-country="FR", 21MIX HD
-#EXTBG: #9a0606
-#EXTSIZE: Small
-http://84.22.58.58:2222/play/a01d/index.m3u8
 # AMOL
 #EXTINF:0 type="stream" channelId="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Amol-designstyle-colors-m.png" tvg-country="RS", AMOL
 #EXTBG: #9a0606
@@ -793,10 +789,10 @@ http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 #EXTBG: #982f2f
 #EXTSIZE: Small
 http://93.87.85.10/PLTV/88888888/224/3221226938/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9i2Iy5UmuGx%2BQ3T6s3OLyGjACvdGXJjF%2BT%2FiYYvZnMuc%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100003939%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0 type="stream" channelId="-1", GD TV
-#EXTBG: #982f2f
-#EXTSIZE: Small
-rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
+# #EXTINF:0 type="stream" channelId="-1", GD TV
+# #EXTBG: #982f2f
+# #EXTSIZE: Small
+# rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
 #EXTINF:0 type="stream" channelId="1762" tvg-logo="http://logos.kodibg.org/dirbg/242.png" tvg-country="BG", Planeta Hd
 #EXTBG: #b99696
 http://84.43.207.130/planetahd/planetahd.m3u8
