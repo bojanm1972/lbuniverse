@@ -70,43 +70,43 @@ http://84.22.58.58:2222/play/a00m/index.m3u8
 #EXTINF:0 type="stream" channelId="2501" tvg-logo="https://www.firstonetv.net/images/logos/us/AMC.png" audio-track="US" subtitles="US" tvg-country="US", AMC
 #EXTBG: #b65200
 #EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=24&uid=2454&deviceMac=00:1A:79:3C:C9:29
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1892.ts
 
 # ComedyCentral
 #EXTINF:0 type="stream" channelId="1190" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" audio-track="US" subtitles="US" tvg-country="US", ComedyCentral
 #EXTBG: #b65200
 #EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=39&uid=2454&deviceMac=00:1A:79:3C:C9:29
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1896.ts
 
 # Syfy
 #EXTINF:0 type="stream" channelId="73" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20170619120040" audio-track="US" subtitles="US" tvg-country="US", Syfy
 #EXTBG: #b65200
 #EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=48&uid=2454&deviceMac=00:1A:79:3C:C9:29
+http://spy-iptv.com:25461/live/valentin.reyes/unCqli5cLk/7257.ts
 
 # Horror Channel
 #EXTINF:0 type="stream" channelId="3496" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-horror-channel.png" audio-track="US" subtitles="US" tvg-country="US", Horror Channel
 #EXTBG: #b65200
 #EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=54&uid=2454&deviceMac=00:1A:79:3C:C9:29
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1926.ts
 
 # Drama
 #EXTINF:0 type="stream" channelId="1158" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f1/Drama_%28TV_channel%29_logo.png/revision/latest?cb=20130713161347" audio-track="US" subtitles="US" tvg-country="US", Drama
 #EXTBG: #b65200
 #EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=60&uid=2454&deviceMac=00:1A:79:3C:C9:29
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=uk_sky_movies_drama_hd/uk_sky_movies_drama_hd
 
 # Universal Channel 
 #EXTINF:0 type="stream" channelId="187" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/200px-Universal_Channel_Logo_2013.svg.png" audio-track="US" subtitles="US" tvg-country="US", Universal Channel 
 #EXTBG: #b65200
 #EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=68&uid=2454&deviceMac=00:1A:79:3C:C9:29
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1898.ts
 
 # Alibi
 #EXTINF:0 type="stream" channelId="1156" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Alibi-logo-2015.png" audio-track="US" subtitles="US" tvg-country="US", Alibi
 #EXTBG: #b65200
 #EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=59&uid=2454&deviceMac=00:1A:79:3C:C9:29
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1916.ts
 
 # HBO
 #EXTINF:0 type="stream" channelId="1330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png" audio-track="US" subtitles="" tvg-country="HU", HBO
@@ -120,7 +120,14 @@ http://81.182.152.24:9001/play/hbo
 #EXTSIZE: Small
 http://81.182.152.24:9001/play/cinemax2
 
+# TNT SERIES
 #EXTINF:0 type="stream" channelId="2686" tvg-logo="http://i.imgur.com/ky7Nxh1.png" catchup="default", TNT SERIES
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://185.152.66.81:25461/live/leticia/123456/1714.m3u8?token=SUZYUxZQRwJGUFlXUwEEXg8GUlEEXFBSVwANUAIBUwIBUwEHAw5VWVURFERGFhddV1loCFdHC1cDBA0fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdXA10FEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAlUFRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAFQGVBZI
+
+# Sky Cinema Drama & Romance UK
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-DRAMA-ROMANCE.png" catchup="default", Sky Cinema Drama & Romance UK
 #EXTBG: #b65200
 #EXTSIZE: Small
 http://185.152.66.81:25461/live/leticia/123456/1714.m3u8?token=SUZYUxZQRwJGUFlXUwEEXg8GUlEEXFBSVwANUAIBUwIBUwEHAw5VWVURFERGFhddV1loCFdHC1cDBA0fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdXA10FEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAlUFRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAFQGVBZI
