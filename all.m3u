@@ -122,6 +122,83 @@ http://93.87.85.10/PLTV/88888888/224/3221226874/index.m3u8?rrsip=93.87.85.10&zon
 #EXTSIZE: Small
 http://93.87.85.10/PLTV/88888888/224/3221226932/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgATAmb8fQUYQkt7mFZDW%2Bhs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100003155%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 
+# Action Movies
+#EXTINF:0 type="stream" channelId="" tvg-logo="http://www.iconsdb.com/icons/preview/caribbean-blue/action-xxl.png" audio-track="US" subtitles="US" tvg-country="US", Action Movies
+#EXTBG: #b65200
+#EXTSIZE: Small
+https://videoserver2.org/live/rXUPMpVKWP7E_wjzN8BwJw/1524797511/90ce2364e02379b96643fe4d0f2d7c25.m3u8
+
+# FILMBOX PLUS
+#EXTINF:0 type="stream" channelId="" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/filmboxplus-logo.png" audio-track="US" subtitles="US" tvg-country="US", FILMBOX PLUS
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://84.22.58.58:2222/play/a00f/index.m3u8
+
+# FilmBox Arthouse
+#EXTINF:0 type="stream" channelId="2789" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fbarthouse-logo.png" audio-track="US" subtitles="US" tvg-country="US", FilmBox Arthouse
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://84.22.58.58:2222/play/a00m/index.m3u8
+
+# AMC
+#EXTINF:0 type="stream" channelId="2501" tvg-logo="https://www.firstonetv.net/images/logos/us/AMC.png" audio-track="US" subtitles="US" tvg-country="US", AMC
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=24&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# ComedyCentral
+#EXTINF:0 type="stream" channelId="1190" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" audio-track="US" subtitles="US" tvg-country="US", ComedyCentral
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=39&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Syfy
+#EXTINF:0 type="stream" channelId="73" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20170619120040" audio-track="US" subtitles="US" tvg-country="US", Syfy
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=48&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Horror Channel
+#EXTINF:0 type="stream" channelId="3496" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-horror-channel.png" audio-track="US" subtitles="US" tvg-country="US", Horror Channel
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=54&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Drama
+#EXTINF:0 type="stream" channelId="1158" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f1/Drama_%28TV_channel%29_logo.png/revision/latest?cb=20130713161347" audio-track="US" subtitles="US" tvg-country="US", Drama
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=60&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Universal Channel 
+#EXTINF:0 type="stream" channelId="187" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/200px-Universal_Channel_Logo_2013.svg.png" audio-track="US" subtitles="US" tvg-country="US", Universal Channel 
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=68&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# Alibi
+#EXTINF:0 type="stream" channelId="1156" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Alibi-logo-2015.png" audio-track="US" subtitles="US" tvg-country="US", Alibi
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://62.210.93.115:80/live?channelId=59&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# HBO
+#EXTINF:0 type="stream" channelId="1330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png" audio-track="US" subtitles="" tvg-country="HU", HBO
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://81.182.152.24:9001/play/hbo
+
+# Cinemax 2
+#EXTINF:0 type="stream" channelId="1330" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/a1/Cinemax_2_Europa_Logo.png" audio-track="US" subtitles="" tvg-country="HU", Cinemax 2
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://81.182.152.24:9001/play/cinemax2
+
+#EXTINF:0 type="stream" channelId="2686" tvg-logo="http://i.imgur.com/ky7Nxh1.png" catchup="default", TNT SERIES
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://185.152.66.81:25461/live/leticia/123456/1714.m3u8?token=SUZYUxZQRwJGUFlXUwEEXg8GUlEEXFBSVwANUAIBUwIBUwEHAw5VWVURFERGFhddV1loCFdHC1cDBA0fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdXA10FEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAlUFRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAFQGVBZI
+
 # Pink Channels #e405c7
 # Pink
 #EXTINF:0 type="stream" channelId="1878" audio-track="RS" subtitles="RS" tvg-shift="2" tvg-country="RS", Pink
@@ -225,6 +302,7 @@ http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfire
 #EXTBG: #9a0606
 #EXTSIZE: Small
 http://84.22.58.58:2222/play/a00q/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-country="HU", Hit Music Channel
 #EXTBG: #9a0606
 #EXTSIZE: Small
@@ -657,6 +735,28 @@ http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTBG: #9a0606
 #EXTSIZE: Small
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w437113484_b964000_sleng.m3u8
+# 21MIX HD
+#EXTINF:0 type="stream" channelId="" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/RTV21Mix_logo_5a03b4dd5fcbd.png" tvg-country="FR", 21MIX HD
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://84.22.58.58:2222/play/a01d/index.m3u8
+# AMOL
+#EXTINF:0 type="stream" channelId="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Amol-designstyle-colors-m.png" tvg-country="RS", AMOL
+#EXTBG: #9a0606
+#EXTSIZE: Small
+http://84.22.58.58:2222/play/a01l/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/8U5Ww24.png" catchup="default", Gufo Rock Latino | HD
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8?laope
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/8U5Ww24.png" catchup="default", Gufo Retro | HD
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_270/chunklist.m3u8?laope
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/8U5Ww24.png" catchup="default", Gufo Indie | HD
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/d3daa538_1_540/chunklist.m3u8?laope
 #EXTINF:0 type="stream" channelId="1852" tvg-logo="http://tvprofil.net/img/kanali-logo/CMC_TV_logo.png" tvg-country="HR", CMC
 #EXTBG: #982f2f
 #EXTSIZE: Small
@@ -697,6 +797,37 @@ http://93.87.85.10/PLTV/88888888/224/3221226938/index.m3u8?rrsip=93.87.85.10&zon
 #EXTBG: #982f2f
 #EXTSIZE: Small
 rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
+#EXTINF:0 type="stream" channelId="1762" tvg-logo="http://logos.kodibg.org/dirbg/242.png" tvg-country="BG", Planeta Hd
+#EXTBG: #b99696
+http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/2gDBhQb.png" tvg-country="AL", ALBMUSIC HD
+#EXTBG: #b99696
+#EXTSIZE: Small
+http://5.226.137.132:8000/live/stalkermaqedonsit45trweyrfdfasdtew/stalkermaqedonsiijdksfheyugt673rfwe/520.ts
+#EXTINF:0 type="stream" channelId="-1", UttarBangla
+#EXTBG: #b99696
+#EXTSIZE: Small
+http://209.58.164.245/uttarbanglahls/live.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeBlack Africa
+#EXTBG: #b99696
+#EXTSIZE: Small
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeBlack Caribbean
+#EXTBG: #b99696
+#EXTSIZE: Small
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", BeBlack Classik
+#EXTBG: #b99696
+#EXTSIZE: Small
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Slagr TV
+#EXTBG: #b99696
+#EXTSIZE: Small
+http://slagrtv-live-hls.ssl.cdn.cra.cz:80/channels/slagrtv/playlist/cze/live_hq.m3u8
+#EXTINF:0 type="stream" channelId="-1", Desi Beats HD
+#EXTBG: #b99696
+#EXTSIZE: Small
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
 
 #Documentary
 #EXTINF: group-title="Documentary"
@@ -713,11 +844,11 @@ http://vapi.vaders.tv/play/73285.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIw
 #EXTSIZE: Small
 http://62.210.93.115:80/live?channelId=46&uid=2454&deviceMac=00:1A:79:3C:C9:29
 
-# National Geo Wild
-#EXTINF:0 type="stream" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2000px-Logo_Nat_Geo_Wild.svg.png" audio-track="US" subtitles="RS" tvg-country="US", National Geo Wild
-#EXTBG: #ffc494
-#EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=45&uid=2454&deviceMac=00:1A:79:3C:C9:29
+# # National Geo Wild
+# #EXTINF:0 type="stream" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2000px-Logo_Nat_Geo_Wild.svg.png" audio-track="US" subtitles="RS" tvg-country="US", National Geo Wild
+# #EXTBG: #ffc494
+# #EXTSIZE: Small
+# http://62.210.93.115:80/live?channelId=45&uid=2454&deviceMac=00:1A:79:3C:C9:29
 
 # Travel Channel
 #EXTINF:0 type="stream" channelId="54" tvg-logo="http://nextgen-iptv.com/logo/TravelChannel_UK.png" audio-track="RS" subtitles="RS" tvg-country="RS", Travel Channel
@@ -785,6 +916,12 @@ http://62.210.93.115:80/live?channelId=41&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTSIZE: Small
 http://84.22.58.58:2222/play/a026/index.m3u8
 
+# Animal Planet HD BALKAN
+#EXTINF:0 type="stream" channelId="50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/2000px-Animal_Planet_logo.svg.png" audio-track="RS" subtitles="RS" tvg-country="RS", Animal Planet HD BALKAN
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://194.54.183.122:8000/play/a01h
+
 # DOCUBOX
 #EXTINF:0 type="stream" channelId="672" tvg-logo="http://www.arenamundo.com/wp-content/uploads/2016/11/docubox-logo.png" audio-track="US" subtitles="RS" tvg-country="RS", DOCUBOX
 #EXTBG: #ffc494
@@ -802,6 +939,12 @@ http://62.210.93.115:80/live?channelId=43&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTBG: #ffc494
 #EXTSIZE: Small
 http://62.210.93.115:80/live?channelId=44&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# HISTORY 2 RS
+#EXTINF:0 type="stream" channelId="1201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" audio-track="RS" subtitles="RS" tvg-country="RS", HISTORY 2 RS
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226671/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeKWwzvrPe0nHyEb6BWGC8kg%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002635%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 
 # Lov i Ribolov
 #EXTINF:0 type="stream" channelId="" tvg-logo="http://www.musicar.rs/wp-content/uploads/2014/03/1607054_191157701094968_72693872_n.png" audio-track="RS" subtitles="RS" tvg-country="RS", Lov i Ribolov
@@ -900,6 +1043,7 @@ http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
 #EXTBG: #3a069a
 #EXTSIZE: Small
 http://84.22.58.58:2222/play/a027/index.m3u8
+
 # English
 #EXTINF: group-title="English"
 
@@ -1136,6 +1280,7 @@ http://93.87.85.10/PLTV/88888888/224/3221226893/index.m3u8?rrsip=93.87.85.10&zon
 #EXTBG: #fff894
 #EXTSIZE: Small
 http://93.87.85.10/PLTV/88888888/224/3221226894/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qhnPnY%2FUD6cpSm7SvhhqwnQxiVWTwRxF5qgCx8pYgdU%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001908%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTM3U
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.tvarenasport.com/images/logo-arenaA1-big.png" audio-track="RS" subtitles="RS" tvg-country="RS", Arena Sport 1
 #EXTBG: #069a34
 #EXTSIZE: Small
@@ -1225,6 +1370,22 @@ http://31.220.0.196:8081/live/fx2sx/playlist.m3u8
 #EXTBG: #069a34
 #EXTSIZE: Small
 http://persik.by/stream/3903/293564/99.m3u8
+# FIGHTBOX
+#EXTINF:0 type="stream" channelId="2808" tvg-logo="https://mmsc.metroport.pl/o/epg_large_logos/channel_logo_198_large.png" audio-track="US" subtitles="US" tvg-country="US", FIGHTBOX
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://84.22.58.58:2222/play/a00p/index.m3u8
+# FAST&FUN BOX
+#EXTINF:0 type="stream" channelId="2808" tvg-logo="https://ulango.tv/uploads/channels/3782214/logo_fast%20and%20fun.png" audio-track="US" subtitles="US" tvg-country="US", FAST&FUN BOX
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://84.22.58.58:2222/play/a00o/index.m3u8
+
+# MOTORSPORT.TV
+#EXTINF:0 type="stream" channelId="" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORSPORTTV.png" audio-track="US" subtitles="US" tvg-country="US", MOTORSPORT.TV
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://87.118.138.144:8030/play/a00x
 # EXYu
 # HRT 1
 #EXTINF:0 type="stream" channelId="992" audio-track="HR" subtitles="HR" tvg-country="HR", HRT 1
@@ -1251,37 +1412,6 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTBG: #000000
 #EXTSIZE: Small
 http://video.bossna-caffe.com:80/live?channelId=1345&uid=14921&deviceMac=00:1A:79:45:B2:3E
-#EXTINF:0 type="stream" channelId="1762" tvg-logo="http://logos.kodibg.org/dirbg/242.png" tvg-country="BG", Planeta Hd
-#EXTBG: #b99696
-http://84.43.207.130/planetahd/planetahd.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/2gDBhQb.png" tvg-country="AL", ALBMUSIC HD
-#EXTBG: #b99696
-#EXTSIZE: Small
-http://5.226.137.132:8000/live/stalkermaqedonsit45trweyrfdfasdtew/stalkermaqedonsiijdksfheyugt673rfwe/520.ts
-#EXTINF:0 type="stream" channelId="-1", UttarBangla
-#EXTBG: #b99696
-#EXTSIZE: Small
-http://209.58.164.245/uttarbanglahls/live.m3u8
-#EXTINF:0 type="stream" channelId="-1", BeBlack Africa
-#EXTBG: #b99696
-#EXTSIZE: Small
-http://ec.playmedia.fr/beblack/africa/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", BeBlack Caribbean
-#EXTBG: #b99696
-#EXTSIZE: Small
-http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", BeBlack Classik
-#EXTBG: #b99696
-#EXTSIZE: Small
-http://ec.playmedia.fr/beblack/classik/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Slagr TV
-#EXTBG: #b99696
-#EXTSIZE: Small
-http://slagrtv-live-hls.ssl.cdn.cra.cz:80/channels/slagrtv/playlist/cze/live_hq.m3u8
-#EXTINF:0 type="stream" channelId="-1", Desi Beats HD
-#EXTBG: #b99696
-#EXTSIZE: Small
-http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
 
 # Fashion
 # Fashion TV
