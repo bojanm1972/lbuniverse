@@ -15,11 +15,11 @@ http://vapi.vaders.tv/play/73285.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIw
 #EXTSIZE: Small
 http://62.210.93.115:80/live?channelId=46&uid=2454&deviceMac=00:1A:79:3C:C9:29
 
-# National Geo Wild
-#EXTINF:0 type="stream" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2000px-Logo_Nat_Geo_Wild.svg.png" audio-track="US" subtitles="RS" tvg-country="US", National Geo Wild
-#EXTBG: #ffc494
-#EXTSIZE: Small
-
+# # National Geo Wild
+# #EXTINF:0 type="stream" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2000px-Logo_Nat_Geo_Wild.svg.png" audio-track="US" subtitles="RS" tvg-country="US", National Geo Wild
+# #EXTBG: #ffc494
+# #EXTSIZE: Small
+# http://62.210.93.115:80/live?channelId=45&uid=2454&deviceMac=00:1A:79:3C:C9:29
 
 # Travel Channel
 #EXTINF:0 type="stream" channelId="54" tvg-logo="http://nextgen-iptv.com/logo/TravelChannel_UK.png" audio-track="RS" subtitles="RS" tvg-country="RS", Travel Channel
@@ -87,6 +87,12 @@ http://62.210.93.115:80/live?channelId=41&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTSIZE: Small
 http://84.22.58.58:2222/play/a026/index.m3u8
 
+# Animal Planet HD BALKAN
+#EXTINF:0 type="stream" channelId="50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/2000px-Animal_Planet_logo.svg.png" audio-track="RS" subtitles="RS" tvg-country="RS", Animal Planet HD BALKAN
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://194.54.183.122:8000/play/a01h
+
 # DOCUBOX
 #EXTINF:0 type="stream" channelId="672" tvg-logo="http://www.arenamundo.com/wp-content/uploads/2016/11/docubox-logo.png" audio-track="US" subtitles="RS" tvg-country="RS", DOCUBOX
 #EXTBG: #ffc494
@@ -104,6 +110,12 @@ http://62.210.93.115:80/live?channelId=43&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTBG: #ffc494
 #EXTSIZE: Small
 http://62.210.93.115:80/live?channelId=44&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
+# HISTORY 2 RS
+#EXTINF:0 type="stream" channelId="1201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" audio-track="RS" subtitles="RS" tvg-country="RS", HISTORY 2 RS
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://93.87.85.10/PLTV/88888888/224/3221226671/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeKWwzvrPe0nHyEb6BWGC8kg%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002635%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 
 # Lov i Ribolov
 #EXTINF:0 type="stream" channelId="" tvg-logo="http://www.musicar.rs/wp-content/uploads/2014/03/1607054_191157701094968_72693872_n.png" audio-track="RS" subtitles="RS" tvg-country="RS", Lov i Ribolov

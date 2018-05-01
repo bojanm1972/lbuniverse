@@ -98,3 +98,9 @@ http://84.22.58.58:2222/play/a00p/index.m3u8
 #EXTBG: #069a34
 #EXTSIZE: Small
 http://84.22.58.58:2222/play/a00o/index.m3u8
+
+# MOTORSPORT.TV
+#EXTINF:0 type="stream" channelId="" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORSPORTTV.png" audio-track="US" subtitles="US" tvg-country="US", MOTORSPORT.TV
+#EXTBG: #069a34
+#EXTSIZE: Small
+http://87.118.138.144:8030/play/a00x

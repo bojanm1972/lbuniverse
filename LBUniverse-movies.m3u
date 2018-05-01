@@ -108,6 +108,23 @@ http://62.210.93.115:80/live?channelId=68&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTSIZE: Small
 http://62.210.93.115:80/live?channelId=59&uid=2454&deviceMac=00:1A:79:3C:C9:29
 
+# HBO
+#EXTINF:0 type="stream" channelId="1330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png" audio-track="US" subtitles="" tvg-country="HU", HBO
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://81.182.152.24:9001/play/hbo
+
+# Cinemax 2
+#EXTINF:0 type="stream" channelId="1330" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/a1/Cinemax_2_Europa_Logo.png" audio-track="US" subtitles="" tvg-country="HU", Cinemax 2
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://81.182.152.24:9001/play/cinemax2
+
+#EXTINF:0 type="stream" channelId="2686" tvg-logo="http://i.imgur.com/ky7Nxh1.png" catchup="default", TNT SERIES
+#EXTBG: #b65200
+#EXTSIZE: Small
+http://185.152.66.81:25461/live/leticia/123456/1714.m3u8?token=SUZYUxZQRwJGUFlXUwEEXg8GUlEEXFBSVwANUAIBUwIBUwEHAw5VWVURFERGFhddV1loCFdHC1cDBA0fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdXA10FEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAlUFRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAFQGVBZI
+
 
 # Pink Movie and TV shows
 #Pink Premium

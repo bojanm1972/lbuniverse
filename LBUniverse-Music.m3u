@@ -447,6 +447,18 @@ http://84.22.58.58:2222/play/a01d/index.m3u8
 #EXTBG: #9a0606
 #EXTSIZE: Small
 http://84.22.58.58:2222/play/a01l/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/8U5Ww24.png" catchup="default", Gufo Rock Latino | HD
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8?laope
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/8U5Ww24.png" catchup="default", Gufo Retro | HD
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_270/chunklist.m3u8?laope
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/8U5Ww24.png" catchup="default", Gufo Indie | HD
+#EXTBG: #9a0606
+#EXTSIZE: Small
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/d3daa538_1_540/chunklist.m3u8?laope
 #EXTINF:0 type="stream" channelId="1852" tvg-logo="http://tvprofil.net/img/kanali-logo/CMC_TV_logo.png" tvg-country="HR", CMC
 #EXTBG: #982f2f
 #EXTSIZE: Small
