@@ -13,13 +13,13 @@ http://vapi.vaders.tv/play/73285.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIw
 #EXTINF:0 type="stream" channelId="56" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" audio-track="US" subtitles="RS" tvg-country="US", National Geographic
 #EXTBG: #ffc494
 #EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=46&uid=2454&deviceMac=00:1A:79:3C:C9:29
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/517.ts
 
-# # National Geo Wild
-# #EXTINF:0 type="stream" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2000px-Logo_Nat_Geo_Wild.svg.png" audio-track="US" subtitles="RS" tvg-country="US", National Geo Wild
-# #EXTBG: #ffc494
-# #EXTSIZE: Small
-# http://62.210.93.115:80/live?channelId=45&uid=2454&deviceMac=00:1A:79:3C:C9:29
+# National Geo Wild
+#EXTINF:0 type="stream" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2000px-Logo_Nat_Geo_Wild.svg.png" audio-track="US" subtitles="RS" tvg-country="US", National Geo Wild
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7692.ts
 
 # Travel Channel
 #EXTINF:0 type="stream" channelId="54" tvg-logo="http://nextgen-iptv.com/logo/TravelChannel_UK.png" audio-track="RS" subtitles="RS" tvg-country="RS", Travel Channel
@@ -37,7 +37,7 @@ http://84.22.58.58:2222/play/a02q/index.m3u8
 #EXTINF:0 type="stream" channelId="2839" tvg-logo="http://nextgen-iptv.com/logo/discovery%20science.png" audio-track="US" subtitles="RS" tvg-country="RS", Discovery World
 #EXTBG: #ffc494
 #EXTSIZE: Small
-http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4424.ts
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 
 # Discovery Showcase HD
 #EXTINF:0 type="stream" channelId="241" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Discovery_Showcase_HD.png/revision/latest?cb=20161213133625" audio-track="US" subtitles="RS" tvg-country="RS", Discovery Showcase HD
@@ -61,25 +61,19 @@ http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4426.ts
 #EXTINF:0 type="stream" channelId="3485" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-discovery-history.png" audio-track="US" subtitles="RS" tvg-country="RS", Discovery History
 #EXTBG: #ffc494
 #EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=33&uid=2454&deviceMac=00:1A:79:3C:C9:29
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1873.ts
 
 # Discovery Turbo
 #EXTINF:0 type="stream" channelId="2840" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" audio-track="US" subtitles="RS" tvg-country="RS", Discovery Turbo
 #EXTBG: #ffc494
 #EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=35&uid=2454&deviceMac=00:1A:79:3C:C9:29
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1884.ts
 
 # Discovery ID
 #EXTINF:0 type="stream" channelId="" tvg-logo="http://tvprofil.net/img/kanali-logo/investigation-discovery-logo.png" audio-track="US" subtitles="RS" tvg-country="RS", Discovery ID
 #EXTBG: #ffc494
 #EXTSIZE: Small
 https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
-
-# Crime and Investigation
-#EXTINF:0 type="stream" channelId="1189" tvg-logo="http://www.neeo.es/wp-content/uploads/nuevo-logo-crimen.png" audio-track="US" subtitles="RS" tvg-country="RS", Crime and Investigation
-#EXTBG: #ffc494
-#EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=41&uid=2454&deviceMac=00:1A:79:3C:C9:29
 
 # ANIMAL PLANET
 #EXTINF:0 type="stream" channelId="50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/2000px-Animal_Planet_logo.svg.png" audio-track="US" subtitles="RS" tvg-country="RS", ANIMAL PLANET
@@ -103,13 +97,13 @@ http://84.22.58.58:2222/play/a00n/index.m3u8
 #EXTINF:0 type="stream" channelId="1455" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png" audio-track="US" subtitles="RS" tvg-country="RS", History
 #EXTBG: #ffc494
 #EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=43&uid=2454&deviceMac=00:1A:79:3C:C9:29
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/546.ts
 
 # H2
 #EXTINF:0 type="stream" channelId="1201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" audio-track="US" subtitles="RS" tvg-country="RS", H2
 #EXTBG: #ffc494
 #EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=44&uid=2454&deviceMac=00:1A:79:3C:C9:29
+http://aaa000.xyz:8000/live/qpoi8x5109w/54f48dg7f5dg/4583.ts
 
 # HISTORY 2 RS
 #EXTINF:0 type="stream" channelId="1201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" audio-track="RS" subtitles="RS" tvg-country="RS", HISTORY 2 RS
@@ -151,19 +145,19 @@ http://93.87.85.10/PLTV/88888888/224/3221226593/index.m3u8?rrsip=93.87.85.10&zon
 #EXTINF:0 type="stream" channelId="978" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/734_300.png" audio-track="US" subtitles="RS" tvg-country="RS", DMAX
 #EXTBG: #ffc494
 #EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=37&uid=2454&deviceMac=00:1A:79:3C:C9:29
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1877.ts
 
 # Eden HD
 #EXTINF:0 type="stream" channelId="3488" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/1200px-Yesterday_logo_2012.svg.png" audio-track="GB" subtitles="RS" tvg-country="GB", Eden HD
 #EXTBG: #ffc494
 #EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=62&uid=2454&deviceMac=00:1A:79:3C:C9:29
+http://live.eternaltv.net:25461/live/Hecktech/yj4KC5qQtd/27667.ts
 
 # Yesterday
 #EXTINF:0 type="stream" channelId="1165" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/734_300.png" audio-track="GB" subtitles="RS" tvg-country="GB", Yesterday
 #EXTBG: #ffc494
 #EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=66&uid=2454&deviceMac=00:1A:79:3C:C9:29
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1906.ts
 
 # English Club TV
 #EXTINF:0 type="stream" channelId="51" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Eden_logo.png/200px-Eden_logo.png" audio-track="RS" subtitles="RS" tvg-country="RS", English Club TV
@@ -181,4 +175,4 @@ http://93.87.85.10/PLTV/88888888/224/3221226809/index.m3u8?rrsip=93.87.85.10&zon
 #EXTINF:0 type="stream" channelId="1244" tvg-logo="https://seeklogo.com/images/F/food-network-logo-9D0CB10F04-seeklogo.com.png" audio-track="" subtitles="RS" tvg-country="", Food Network
 #EXTBG: #ffc494
 #EXTSIZE: Small
-http://62.210.93.115:80/live?channelId=58&uid=2454&deviceMac=00:1A:79:3C:C9:29
+http://live.eternaltv.net:25461/live/Hecktech/yj4KC5qQtd/19415.ts
