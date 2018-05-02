@@ -15,11 +15,29 @@ http://vapi.vaders.tv/play/73285.m3u8?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIw
 #EXTSIZE: Small
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/517.ts
 
-# National Geo Wild
-#EXTINF:0 type="stream" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2000px-Logo_Nat_Geo_Wild.svg.png" audio-track="US" subtitles="RS" tvg-country="US", National Geo Wild
+# Nat Geo Wild US
+#EXTINF:0 type="stream" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2000px-Logo_Nat_Geo_Wild.svg.png" audio-track="US" subtitles="US" tvg-country="US", National Geo Wild US
 #EXTBG: #ffc494
 #EXTSIZE: Small
-http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7692.ts
+http://live.eternaltv.net:25461/live/Hecktech/yj4KC5qQtd/19555.ts
+
+# Nat Geo Wild UK
+#EXTINF:0 type="stream" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2000px-Logo_Nat_Geo_Wild.svg.png" audio-track="GB" subtitles="GB" tvg-country="GB", National Geo Wild UK
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3053
+
+# Nat Geo Wild CA
+#EXTINF:0 type="stream" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2000px-Logo_Nat_Geo_Wild.svg.png" audio-track="CA" subtitles="CA" tvg-country="CA", Nat Geo Wild CA
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/17444.ts
+
+# Nat Geo Wild RU
+#EXTINF:0 type="stream" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/2000px-Logo_Nat_Geo_Wild.svg.png" audio-track="RU" subtitles="RU" tvg-country="RU", Nat Geo Wild RU
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/216/index.m3u8
 
 # Travel Channel
 #EXTINF:0 type="stream" channelId="54" tvg-logo="http://nextgen-iptv.com/logo/TravelChannel_UK.png" audio-track="RS" subtitles="RS" tvg-country="RS", Travel Channel
@@ -51,17 +69,29 @@ http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4425.ts
 #EXTSIZE: Small
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/42.ts
 
+# Discovery Science UK
+#EXTINF:0 type="stream" channelId="1508" tvg-logo="http://tvprofil.net/img/kanali-logo/Discovery_Science_logo.png" audio-track="GB" subtitles="RS" tvg-country="GB", Discovery Science UK
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://aaa000.xyz:8000/live/qpoi8x5109w/54f48dg7f5dg/6254.ts
+
+# Discovery Science RU
+#EXTINF:0 type="stream" channelId="1508" tvg-logo="http://tvprofil.net/img/kanali-logo/Discovery_Science_logo.png" audio-track="RU" subtitles="RU" tvg-country="RU", Discovery Science RU
+#EXTBG: #ffc494
+#EXTSIZE: Small
+http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/279/index.m3u8
+
 # Discovery Sheed
 #EXTINF:0 type="stream" channelId="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Discovery_Shed.png" audio-track="US" subtitles="RS" tvg-country="RS", Discovery Sheed
 #EXTBG: #ffc494
 #EXTSIZE: Small
 http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/4426.ts
 
-# Discovery History
-#EXTINF:0 type="stream" channelId="3485" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-discovery-history.png" audio-track="US" subtitles="RS" tvg-country="RS", Discovery History
+# Discovery History UK
+#EXTINF:0 type="stream" channelId="3485" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-discovery-history.png" audio-track="GB" subtitles="GB" tvg-country="GB", Discovery History UK
 #EXTBG: #ffc494
 #EXTSIZE: Small
-http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1873.ts
+http://live.eternaltv.net:25461/live/Hecktech/yj4KC5qQtd/14156.ts
 
 # Discovery Turbo
 #EXTINF:0 type="stream" channelId="2840" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" audio-track="US" subtitles="RS" tvg-country="RS", Discovery Turbo
@@ -80,12 +110,6 @@ https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8
 #EXTBG: #ffc494
 #EXTSIZE: Small
 http://84.22.58.58:2222/play/a026/index.m3u8
-
-# Animal Planet HD BALKAN
-#EXTINF:0 type="stream" channelId="50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/2000px-Animal_Planet_logo.svg.png" audio-track="RS" subtitles="RS" tvg-country="RS", Animal Planet HD BALKAN
-#EXTBG: #ffc494
-#EXTSIZE: Small
-http://194.54.183.122:8000/play/a01h
 
 # DOCUBOX
 #EXTINF:0 type="stream" channelId="672" tvg-logo="http://www.arenamundo.com/wp-content/uploads/2016/11/docubox-logo.png" audio-track="US" subtitles="RS" tvg-country="RS", DOCUBOX
@@ -124,10 +148,10 @@ http://cdn.iptv.amis.net/ts/FISHUN/stream_iptv_2000k.m3u8
 https://nimble.huntchannel.tv/abr/huntchannel/live/huntchannelhq/chunks.m3u8
 
 # BBC Earth
-#EXTINF:0 type="stream" channelId="3192" tvg-logo="http://tvprofil.net/img/kanali-logo/BBCearth_logo.png" audio-track="RS" subtitles="RS" tvg-country="RS", BBC Earth
+#EXTINF:0 type="stream" channelId="3192" tvg-logo="http://tvprofil.net/img/kanali-logo/BBCearth_logo.png" audio-track="GB" subtitles="RS" tvg-country="GB", BBC Earth
 #EXTBG: #ffc494
 #EXTSIZE: Small
-http://93.87.85.69/PLTV/88888888/224/3221226856/04.m3u8?accountinfo=tRq5adXMPA9yBy2DAMIaTD2venSJc9eog%2BDm8B%2Fsnps1wI2FVpfl5ZQwfr%2Bdtoa7Knbs%2Ftk5dSNqxf0gPjladuklJUT%2FHynvMVAISaHor5CjAwYvPjudXUXZu0MNxYV2dqQozxFE3ubHt2EYMx4IKxmfEuuTqSUg0xreoLdh%2BsZtdpZjgWkl7Gd4IUs%2FxBc1%3A20170128230138%3AUTC%2C291914713%2C178.149.161.79%2C20170128230138%2Curn%3AHuawei%3AliveTV%3AXTV100001846%2C7BDB39A708E7B03F45DBCCDE137C7499%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cpurko10%2C0%2Cpurko10%2C8qq9oY8SId6D5hQCjHHJc878Pck%3D%2C2%2C,END&GuardEncType=2
+http://universeiptv.com:8000/live/5628vdnt/9728vdmy/4972.ts
 
 # Viasat History
 #EXTINF:0 type="stream" channelId="166" tvg-logo="http://www.viasatworld.com/media/1067/historylogo.png" audio-track="RS" subtitles="RS" tvg-country="RS", Viasat History
