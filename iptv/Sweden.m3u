@@ -1,0 +1,107 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="(SE) Sweden",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(SE) Sweden",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(SE) Sweden",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SE) Sweden",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SE) Sweden",ANIMAL PLANET | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9302.m3u8
+#EXTINF:0 group-title="(SE) Sweden",ANIMAL PLANET (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10957.m3u8
+#EXTINF:0 group-title="(SE) Sweden",CANAL 10 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10934.m3u8
+#EXTINF:0 group-title="(SE) Sweden",DISCOVERY | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9304.m3u8
+#EXTINF:0 group-title="(SE) Sweden",DISCOVERY CHANNEL | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10961.m3u8
+#EXTINF:0 group-title="(SE) Sweden",DISCOVERY SCIENCE | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9303.m3u8
+#EXTINF:0 group-title="(SE) Sweden",DR ULTRA | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2671.m3u8
+#EXTINF:0 group-title="(SE) Sweden",FATSTONE TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22812.m3u8
+#EXTINF:0 group-title="(SE) Sweden",FEM | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10974.m3u8
+#EXTINF:0 group-title="(SE) Sweden",INVESTIGATION DISCOVERY | SD
+http://titiroq.xyz:25461/live/Saad55/Saad55/12270.m3u8
+#EXTINF:0 group-title="(SE) Sweden",INVESTIGATION DISCOVERY (1+) | SD
+http://titiroq.xyz:25461/live/123412341234/123412341234/12270.m3u8
+#EXTINF:0 group-title="(SE) Sweden",KANAL 10 | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22790.m3u8
+#EXTINF:0 group-title="(SE) Sweden",KANAL5 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9310.m3u8
+#EXTINF:0 group-title="(SE) Sweden",KANAL9 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9307.m3u8
+#EXTINF:0 group-title="(SE) Sweden",LA TV | SD
+http://titiroq.xyz:25461/live/Saad55/Saad55/12870.m3u8
+#EXTINF:0 group-title="(SE) Sweden",MAX | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10976.m3u8
+#EXTINF:0 group-title="(SE) Sweden",NATIONAL GEOGRAPHIC | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10958.m3u8
+#EXTINF:0 group-title="(SE) Sweden",NRK 1 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10980.m3u8
+#EXTINF:0 group-title="(SE) Sweden",NRK 2 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10979.m3u8
+#EXTINF:0 group-title="(SE) Sweden",NRK 3 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10978.m3u8
+#EXTINF:0 group-title="(SE) Sweden",RTV ZIK | SD
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
+#EXTINF:0 group-title="(SE) Sweden",STORTINGET | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10935.m3u8
+#EXTINF:0 group-title="(SE) Sweden",STORTINGET (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22816.m3u8
+#EXTINF:0 group-title="(SE) Sweden",SVT1 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9316.m3u8
+#EXTINF:0 group-title="(SE) Sweden",SVT2 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9315.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TELE | SD
+http://titiroq.xyz:25461/live/123412341234/123412341234/29294.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TLC | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9314.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TLC (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10959.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TNT | SD
+http://titiroq.xyz:25461/live/123412341234/123412341234/22859.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV VEST | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22811.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV2 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10973.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV2 (1+) | SD
+http://titiroq.xyz:25461/live/123412341234/123412341234/12331.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV2 HUMOR | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10968.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV2 LIVSSTIL | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10971.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV2 NYHETSKANALEN | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10970.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV2 ZEBRA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10969.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV3 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9313.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV3 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10972.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV4 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9312.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV6 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9309.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV6 (1+) | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10938.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV8 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9308.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT 4 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9311.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT 4 (1+) | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10942.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT ACTION | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10936.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT FILM ACTION | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9292.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT FILM HITS | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9290.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VOX | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10975.m3u8

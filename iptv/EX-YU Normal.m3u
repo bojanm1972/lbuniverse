@@ -1,0 +1,395 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="(EX-YU) Slovenia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(EX-YU) Slovenia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(EX-YU) Slovenia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(EX-YU) Slovenia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(EX-YU) Slovenia",24 VESTI | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/62.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",24 VESTI | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6428.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ALFA TV | SD
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6427.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ALFA TV | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/63.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ALSAT M | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/64.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ALSAT-M | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6426.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ANIMAL PLANET | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6980.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",AXN ADRIA | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6982.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",B92 | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2615.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",B92 INFO | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6983.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",BALKANIKA | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6984.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",BH TV 1 | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3436.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",BH TV 1 | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3436.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",BHT 1 | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6986.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",BOSNA TV 1 | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6987.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",BUJRUM TV | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3510.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",CANAL ANDALUCIA | SD
+http://titiroq.xyz:25461/live/123412341234/123412341234/6379.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",CITY TV | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/1387.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",DOCUBOX | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6992.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",DUGA TV | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6993.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",EVIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16170.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FACE | HD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3538.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FACE TV | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3429.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FEDERALNA TV | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6996.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FILM BOX PLUS | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3517.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FILMBOX EXTRA | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3516.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAPPY TV | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3507.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAYAT | SD
+http://164.132.160.66:777/live/csOIC0HAYC/0zi48YB80d/1789.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAYAT PLUS | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3402.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAYAT TV | HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3403.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAYAT TV | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3512.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAYATOVCI | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3513.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HBO | HD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7000.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HBO 2 SLO | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6998.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HBO 3 | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6999.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HBO 3 | SD
+http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/6999.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HEMA 1 | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2605.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HISTORY | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7002.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HON | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22306.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HON | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22306.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HUN | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22454.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ID DISCOVERY | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7003.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ISTOK TV | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7004.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",IZVORNA TV | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7005.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",K23 TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22707.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",KANAL 5 | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6425.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",KANAL 5 PLUS | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/378.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",KANAL VIZIJA | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/1082.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",KANAL5 | SD
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6424.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",KANAL5 | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6424.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",KANAL5 | SD
+http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/6424.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",KLASIK TV | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/127.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",MINI TV | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7009.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",MRT 1 | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/57.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",MRT 1 | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6422.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",MRT 2 | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/58.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",MRT 2 | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6421.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",MRT 3 | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/59.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",MRT SAT 1 | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6420.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",MRT SAT 2 | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6419.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",NAT GEO WILD | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7015.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",NATIONAL GEOGRAPHIC | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7016.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",NOVA | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3535.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",NOVA | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/47.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",NOVA | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7017.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",NOVA CR | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3536.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",OBN | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/9.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",OTV VALENTINO | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7018.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PANNON RTV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22702.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/221.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK | SD
+http://164.132.160.66:777/live/csOIC0HAYC/0zi48YB80d/1885.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2620.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK 1 | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/229.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK 1 RESERVE | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7049.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK 2 | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/228.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK 3 | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/1329.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK ACTION | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/230.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK COMEDY | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/182.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK CRIME & MYSTERY | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7050.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK CRIME MYSTERY | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3520.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK EXTRA | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/224.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK EXTRA | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7052.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK FILM | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3525.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK FOLK | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7053.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK FOLK 1 | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/222.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK FOLK 2 | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/237.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK HORRO | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/225.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK HORROR | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3524.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK HORROR | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7055.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK KUVAR | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7057.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK PEDIA | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3503.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK PEDIA | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3420.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK PEDIA | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3420.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK PEDIA | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7061.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK PREMIUM | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/227.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK PREMIUM | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3411.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK REALITY | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/223.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK REALTY | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3521.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK ROLL | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3527.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK ROMANCE | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3522.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK SHOW | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3523.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK THRILLER | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3519.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK THRILLER | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3423.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK WESTERN | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/1330.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK WESTERN | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3413.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK ZABAVA | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/231.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK ZABAVA | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7065.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PULS TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22698.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RBS TV PORTO ALEGRE HD1 | SD
+http://giantofthefuture.gleeze.com:25461/live/marcos/marcos/7634.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTL | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/1401.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTL 2 | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/35.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTL 2 | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3431.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTL CRIME | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/36.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTL KOCKICA | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/99.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTL LIVING | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3502.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTL LIVING | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/38.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTS | HD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7045.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTS 3 | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3504.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTV 1 | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3505.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTV 21 | HD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4410.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTV MIR | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22701.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTV NOVIPAZAR | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2626.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTV NOVIPAZAR | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2626.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SAGAR TV | SD
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SHUTEL | SD
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6416.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SHUTEL | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6416.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SHUTEL TV | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/438.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SITEL | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3501.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SITEL | SD
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6415.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SITEL | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6415.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SITEL TV | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/66.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SKY FOLK TV | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/584.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SONCE TV | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/1259.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",STAR TV | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3518.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",STUDIO B | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3506.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",STUDIO B TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22699.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SUTEL TV | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3500.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SUTEL TV | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/648.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SVT1 | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6231.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SVT2 | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6232.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TELMA | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/65.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TELMA | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6414.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TK TUZLA | SD
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/7023.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TK TUZLA | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7023.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TOP CHANNEL | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11294.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TRAVEL CHANNEL | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3508.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV 14 | SD
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV BAHIA | HD
+http://giantofthefuture.gleeze.com:25461/live/marcos/marcos/7633.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV CANAL 14 | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14141.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV CANAL 14 | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14141.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV N1 BEOGRAD | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11295.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV NOVA | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6413.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV NOVA | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7033.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV PLUS | SD
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/352.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV SARAJEVO | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3514.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV SARAJEVO | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/7034.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV SONCE | SD
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6418.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV SONCE | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6418.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIASAT HISTORY | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3529.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIASAT NATURE | SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/3530.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VINKOVA | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6991.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | HD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16133.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | HD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16199.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | HD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16226.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | HD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16255.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/16122.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/16222.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16134.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16151.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16153.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16163.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16165.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16166.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16206.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16227.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16229.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16234.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16237.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16239.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16240.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16241.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16242.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16257.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16261.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16262.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16264.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16267.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16269.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16270.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16271.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/16310.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",VIP | SD
+http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/16155.m3u8

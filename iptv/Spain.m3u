@@ -1,0 +1,405 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="(SP) Spain",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(SP) Spain",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(SP) Spain",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SP) Spain",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SP) Spain",13 TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7627.m3u8
+#EXTINF:0 group-title="(SP) Spain",13 TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7627.m3u8
+#EXTINF:0 group-title="(SP) Spain",24 HORAS | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8513.m3u8
+#EXTINF:0 group-title="(SP) Spain",3/24 | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9226.m3u8
+#EXTINF:0 group-title="(SP) Spain",3/24 (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9226.m3u8
+#EXTINF:0 group-title="(SP) Spain",7 TV MURCIA | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22715.m3u8
+#EXTINF:0 group-title="(SP) Spain",A&E | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8512.m3u8
+#EXTINF:0 group-title="(SP) Spain",A1 ESPANA | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21590.m3u8
+#EXTINF:0 group-title="(SP) Spain",A1 ESPANA (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21590.m3u8
+#EXTINF:0 group-title="(SP) Spain",ALCARRIA TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10482.m3u8
+#EXTINF:0 group-title="(SP) Spain",ALCARRIA TV (1+) | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11514.m3u8
+#EXTINF:0 group-title="(SP) Spain",ALCARRIA TV (2+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10482.m3u8
+#EXTINF:0 group-title="(SP) Spain",ALCARRIA TV (3+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11514.m3u8
+#EXTINF:0 group-title="(SP) Spain",AMC | HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3637.m3u8
+#EXTINF:0 group-title="(SP) Spain",AMC | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8511.m3u8
+#EXTINF:0 group-title="(SP) Spain",ANDALUCIA TV | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3630.m3u8
+#EXTINF:0 group-title="(SP) Spain",ANTENA 3 | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/2609.m3u8
+#EXTINF:0 group-title="(SP) Spain",ANTENA 3 (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/2609.m3u8
+#EXTINF:0 group-title="(SP) Spain",AXN | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8509.m3u8
+#EXTINF:0 group-title="(SP) Spain",B GLOBAL | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8901.m3u8
+#EXTINF:0 group-title="(SP) Spain",B GLOBAL (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8901.m3u8
+#EXTINF:0 group-title="(SP) Spain",BARCA TV | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3143.m3u8
+#EXTINF:0 group-title="(SP) Spain",BEIN LA LIGA 1 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8451.m3u8
+#EXTINF:0 group-title="(SP) Spain",BEIN LA LIGA 2 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8450.m3u8
+#EXTINF:0 group-title="(SP) Spain",BEIN LA LIGA 3 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8449.m3u8
+#EXTINF:0 group-title="(SP) Spain",BEIN LA LIGA 4 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8448.m3u8
+#EXTINF:0 group-title="(SP) Spain",BEIN LA LIGA 5 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8447.m3u8
+#EXTINF:0 group-title="(SP) Spain",BEIN MAX 1 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8446.m3u8
+#EXTINF:0 group-title="(SP) Spain",BEIN MAX 2 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8445.m3u8
+#EXTINF:0 group-title="(SP) Spain",BEIN MAX 3 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8444.m3u8
+#EXTINF:0 group-title="(SP) Spain",BETIS TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11513.m3u8
+#EXTINF:0 group-title="(SP) Spain",BETIS TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11513.m3u8
+#EXTINF:0 group-title="(SP) Spain",BOING | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8506.m3u8
+#EXTINF:0 group-title="(SP) Spain",CALLE 13 | HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3155.m3u8
+#EXTINF:0 group-title="(SP) Spain",CALLE 13 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8505.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21140.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21140.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL 24 HORAS | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21138.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL 24 HORAS (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21138.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL 4 | SD
+https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL ANDALUC | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11570.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL ANDALUC (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11570.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL DECASA | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3617.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL PANDA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8503.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL SAN ROQUE | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/12886.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL SAN ROQUE (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12886.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL TARONJA | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10491.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL TARONJA (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10491.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL TERRASSA | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10495.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL TERRASSA (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10495.m3u8
+#EXTINF:0 group-title="(SP) Spain",CAZA Y PESCA | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/12880.m3u8
+#EXTINF:0 group-title="(SP) Spain",CAZA Y PESCA (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12880.m3u8
+#EXTINF:0 group-title="(SP) Spain",CCTN | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9443.m3u8
+#EXTINF:0 group-title="(SP) Spain",CCTN (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9443.m3u8
+#EXTINF:0 group-title="(SP) Spain",CLAN TVE | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8501.m3u8
+#EXTINF:0 group-title="(SP) Spain",CONDAVISI | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10717.m3u8
+#EXTINF:0 group-title="(SP) Spain",CONDAVISI (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10717.m3u8
+#EXTINF:0 group-title="(SP) Spain",COSMO | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8499.m3u8
+#EXTINF:0 group-title="(SP) Spain",CRIME & INVESTIGATION | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8498.m3u8
+#EXTINF:0 group-title="(SP) Spain",CUATRO | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8497.m3u8
+#EXTINF:0 group-title="(SP) Spain",DECASA | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/12878.m3u8
+#EXTINF:0 group-title="(SP) Spain",DECASA (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12878.m3u8
+#EXTINF:0 group-title="(SP) Spain",DIVINITY | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8492.m3u8
+#EXTINF:0 group-title="(SP) Spain",EITB SAT | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8831.m3u8
+#EXTINF:0 group-title="(SP) Spain",EITB SAT (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8831.m3u8
+#EXTINF:0 group-title="(SP) Spain",ENERGY | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8491.m3u8
+#EXTINF:0 group-title="(SP) Spain",ERTV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21139.m3u8
+#EXTINF:0 group-title="(SP) Spain",ERTV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21139.m3u8
+#EXTINF:0 group-title="(SP) Spain",ESPERANZA TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/2295.m3u8
+#EXTINF:0 group-title="(SP) Spain",ESPERANZA TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/2295.m3u8
+#EXTINF:0 group-title="(SP) Spain",EURONEUWS | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13596.m3u8
+#EXTINF:0 group-title="(SP) Spain",EURONEUWS (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13596.m3u8
+#EXTINF:0 group-title="(SP) Spain",EXTREMADURA TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9632.m3u8
+#EXTINF:0 group-title="(SP) Spain",EXTREMADURA TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9632.m3u8
+#EXTINF:0 group-title="(SP) Spain",FDF | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8490.m3u8
+#EXTINF:0 group-title="(SP) Spain",FOX | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8489.m3u8
+#EXTINF:0 group-title="(SP) Spain",FOX ACTION MX | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8488.m3u8
+#EXTINF:0 group-title="(SP) Spain",FOX LIFE | HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3133.m3u8
+#EXTINF:0 group-title="(SP) Spain",GALICIA TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8485.m3u8
+#EXTINF:0 group-title="(SP) Spain",GALICIA TV (1+) | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8828.m3u8
+#EXTINF:0 group-title="(SP) Spain",GALICIA TV (2+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8828.m3u8
+#EXTINF:0 group-title="(SP) Spain",GLOBO B | SD
+http://titiroq.xyz:25461/live/Saad55/Saad55/19526.m3u8
+#EXTINF:0 group-title="(SP) Spain",GOL TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8439.m3u8
+#EXTINF:0 group-title="(SP) Spain",GOL TV (1+) | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13597.m3u8
+#EXTINF:0 group-title="(SP) Spain",GOL TV (2+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13597.m3u8
+#EXTINF:0 group-title="(SP) Spain",HISTORIA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8484.m3u8
+#EXTINF:0 group-title="(SP) Spain",HISTORIA (1+) | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3132.m3u8
+#EXTINF:0 group-title="(SP) Spain",HIT TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8420.m3u8
+#EXTINF:0 group-title="(SP) Spain",HIT TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8420.m3u8
+#EXTINF:0 group-title="(SP) Spain",HOLLYWOOD | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8483.m3u8
+#EXTINF:0 group-title="(SP) Spain",LA 1 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8517.m3u8
+#EXTINF:0 group-title="(SP) Spain",LA 2 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8516.m3u8
+#EXTINF:0 group-title="(SP) Spain",LA LIGA | HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3629.m3u8
+#EXTINF:0 group-title="(SP) Spain",LANCELOT TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/2296.m3u8
+#EXTINF:0 group-title="(SP) Spain",LANCELOT TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/2296.m3u8
+#EXTINF:0 group-title="(SP) Spain",LAOTRA | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8882.m3u8
+#EXTINF:0 group-title="(SP) Spain",LAOTRA (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8882.m3u8
+#EXTINF:0 group-title="(SP) Spain",LEVANTE TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10489.m3u8
+#EXTINF:0 group-title="(SP) Spain",LEVANTE TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10489.m3u8
+#EXTINF:0 group-title="(SP) Spain",LOGOS TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7628.m3u8
+#EXTINF:0 group-title="(SP) Spain",LOGOS TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7628.m3u8
+#EXTINF:0 group-title="(SP) Spain",MEGA | HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3129.m3u8
+#EXTINF:0 group-title="(SP) Spain",MEGA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8481.m3u8
+#EXTINF:0 group-title="(SP) Spain",MIAMI TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11473.m3u8
+#EXTINF:0 group-title="(SP) Spain",MIAMI TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11473.m3u8
+#EXTINF:0 group-title="(SP) Spain",MIAMI TV ESPA | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13604.m3u8
+#EXTINF:0 group-title="(SP) Spain",MIAMI TV ESPA (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13604.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR ACCION | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8480.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR COMEDIA | HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3152.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR COMEDIA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8479.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR DEPORTES 1 | HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3148.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR DEPORTES 2 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8476.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR ESTRENOS | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8475.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR FUTBOL | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8473.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR XTRA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8468.m3u8
+#EXTINF:0 group-title="(SP) Spain",NAT GEO WILD | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8467.m3u8
+#EXTINF:0 group-title="(SP) Spain",NAT GEO WILD (1+) | SD
+http://titiroq.xyz:25461/live/123412341234/123412341234/6371.m3u8
+#EXTINF:0 group-title="(SP) Spain",NATIONAL GEO | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8466.m3u8
+#EXTINF:0 group-title="(SP) Spain",NATIONAL GEOGRAPHIC | SD
+http://titiroq.xyz:25461/live/123412341234/123412341234/6372.m3u8
+#EXTINF:0 group-title="(SP) Spain",NAVARRA TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10188.m3u8
+#EXTINF:0 group-title="(SP) Spain",NAVARRA TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10188.m3u8
+#EXTINF:0 group-title="(SP) Spain",NEOX | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8465.m3u8
+#EXTINF:0 group-title="(SP) Spain",NEOX (1+) | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3126.m3u8
+#EXTINF:0 group-title="(SP) Spain",NOVA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8464.m3u8
+#EXTINF:0 group-title="(SP) Spain",NOVA (1+) | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3125.m3u8
+#EXTINF:0 group-title="(SP) Spain",ODISEA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8463.m3u8
+#EXTINF:0 group-title="(SP) Spain",PTV C | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/2613.m3u8
+#EXTINF:0 group-title="(SP) Spain",PTV C (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/2613.m3u8
+#EXTINF:0 group-title="(SP) Spain",REAL MADRID | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8437.m3u8
+#EXTINF:0 group-title="(SP) Spain",REAL MADRID TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7800.m3u8
+#EXTINF:0 group-title="(SP) Spain",REAL MADRID TV (1+) | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14234.m3u8
+#EXTINF:0 group-title="(SP) Spain",REAL MADRID TV (2+) | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3123.m3u8
+#EXTINF:0 group-title="(SP) Spain",REAL MADRID TV (3+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7800.m3u8
+#EXTINF:0 group-title="(SP) Spain",REAL MADRID TV (4+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14234.m3u8
+#EXTINF:0 group-title="(SP) Spain",RIBERA TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10488.m3u8
+#EXTINF:0 group-title="(SP) Spain",RIBERA TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10488.m3u8
+#EXTINF:0 group-title="(SP) Spain",RT ESPA | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/12864.m3u8
+#EXTINF:0 group-title="(SP) Spain",RT ESPA (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12864.m3u8
+#EXTINF:0 group-title="(SP) Spain",RTV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7624.m3u8
+#EXTINF:0 group-title="(SP) Spain",RTV (1+) | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13140.m3u8
+#EXTINF:0 group-title="(SP) Spain",RTV (2+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7624.m3u8
+#EXTINF:0 group-title="(SP) Spain",RTV (3+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13140.m3u8
+#EXTINF:0 group-title="(SP) Spain",RTVCE | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10487.m3u8
+#EXTINF:0 group-title="(SP) Spain",RTVCE (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10487.m3u8
+#EXTINF:0 group-title="(SP) Spain",SBN | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22714.m3u8
+#EXTINF:0 group-title="(SP) Spain",SEVILLA FC | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11573.m3u8
+#EXTINF:0 group-title="(SP) Spain",SEVILLA FC (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11573.m3u8
+#EXTINF:0 group-title="(SP) Spain",SEVILLA FC TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11535.m3u8
+#EXTINF:0 group-title="(SP) Spain",SEVILLA FC TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11535.m3u8
+#EXTINF:0 group-title="(SP) Spain",SKY 2 | SD
+http://vietcago.net/vstv/skysp2.m3u8
+#EXTINF:0 group-title="(SP) Spain",SKY 3 | SD
+http://vietcago.net/vstv/skysp3.m3u8
+#EXTINF:0 group-title="(SP) Spain",SOLIDARIA TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10196.m3u8
+#EXTINF:0 group-title="(SP) Spain",SOLIDARIA TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10196.m3u8
+#EXTINF:0 group-title="(SP) Spain",SYFY | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8462.m3u8
+#EXTINF:0 group-title="(SP) Spain",TAQUILLA 2 | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3121.m3u8
+#EXTINF:0 group-title="(SP) Spain",TAQUILLA 3 | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3120.m3u8
+#EXTINF:0 group-title="(SP) Spain",TAQUILLA 4 | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3119.m3u8
+#EXTINF:0 group-title="(SP) Spain",TAQUILLA 5 | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3118.m3u8
+#EXTINF:0 group-title="(SP) Spain",TAROT VISI | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12892.m3u8
+#EXTINF:0 group-title="(SP) Spain",TAROTCANAL | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12884.m3u8
+#EXTINF:0 group-title="(SP) Spain",TAROTEAME TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8830.m3u8
+#EXTINF:0 group-title="(SP) Spain",TAROTEAME TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8830.m3u8
+#EXTINF:0 group-title="(SP) Spain",TBN ESPA | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11608.m3u8
+#EXTINF:0 group-title="(SP) Spain",TBN ESPA (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11608.m3u8
+#EXTINF:0 group-title="(SP) Spain",TCM | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8461.m3u8
+#EXTINF:0 group-title="(SP) Spain",TELEBILBAO | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/12875.m3u8
+#EXTINF:0 group-title="(SP) Spain",TELEBILBAO (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12875.m3u8
+#EXTINF:0 group-title="(SP) Spain",TELECINCO | HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3634.m3u8
+#EXTINF:0 group-title="(SP) Spain",TELECINCO | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8460.m3u8
+#EXTINF:0 group-title="(SP) Spain",TELEDEPORTE | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8459.m3u8
+#EXTINF:0 group-title="(SP) Spain",TELEELX | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11532.m3u8
+#EXTINF:0 group-title="(SP) Spain",TELEELX (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11532.m3u8
+#EXTINF:0 group-title="(SP) Spain",TELEMADRID | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10003.m3u8
+#EXTINF:0 group-title="(SP) Spain",TELEMADRID (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10003.m3u8
+#EXTINF:0 group-title="(SP) Spain",TELEVALENCIA | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21072.m3u8
+#EXTINF:0 group-title="(SP) Spain",TELEVALENCIA (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21072.m3u8
+#EXTINF:0 group-title="(SP) Spain",TNT | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/7960.m3u8
+#EXTINF:0 group-title="(SP) Spain",TNT | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8458.m3u8
+#EXTINF:0 group-title="(SP) Spain",TORREVISI | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9221.m3u8
+#EXTINF:0 group-title="(SP) Spain",TORREVISI (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9221.m3u8
+#EXTINF:0 group-title="(SP) Spain",TV 3 CATALUNYA | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8896.m3u8
+#EXTINF:0 group-title="(SP) Spain",TV 3 CATALUNYA (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8896.m3u8
+#EXTINF:0 group-title="(SP) Spain",TV 33 CATALUNYA | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8897.m3u8
+#EXTINF:0 group-title="(SP) Spain",TV ASSEMBLEIA | SD
+http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
+#EXTINF:0 group-title="(SP) Spain",TV COSTA BRAVA | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8564.m3u8
+#EXTINF:0 group-title="(SP) Spain",TV COSTA BRAVA (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8564.m3u8
+#EXTINF:0 group-title="(SP) Spain",TV MELILLA | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13005.m3u8
+#EXTINF:0 group-title="(SP) Spain",TV MELILLA (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13005.m3u8
+#EXTINF:0 group-title="(SP) Spain",TV VEGA BAJA | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9999.m3u8
+#EXTINF:0 group-title="(SP) Spain",TV VEGA BAJA (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9999.m3u8
+#EXTINF:0 group-title="(SP) Spain",TV3 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8455.m3u8
+#EXTINF:0 group-title="(SP) Spain",TV3 CAT | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7623.m3u8
+#EXTINF:0 group-title="(SP) Spain",TV3 CAT (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7623.m3u8
+#EXTINF:0 group-title="(SP) Spain",TV4 LA VALL | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/12868.m3u8
+#EXTINF:0 group-title="(SP) Spain",TV4 LA VALL (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12868.m3u8
+#EXTINF:0 group-title="(SP) Spain",UNIVISION MX | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8436.m3u8
+#EXTINF:0 group-title="(SP) Spain",VIAJAR | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8454.m3u8

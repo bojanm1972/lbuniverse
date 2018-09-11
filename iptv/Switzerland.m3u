@@ -1,0 +1,143 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="(CH) Switzerland",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(CH) Switzerland",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(CH) Switzerland",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(CH) Switzerland",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(CH) Switzerland",33 KAN | SD
+http://titiroq.xyz:25461/live/123412341234/123412341234/10093.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",ADN | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21525.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",ADN | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21525.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",ANTOFAGASTA TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21526.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",ANTOFAGASTA TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21526.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",CAMPUS TV | HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21527.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",CAMPUS TV | HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21527.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",CAR VISION CHANNEL | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22230.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",CAROLINE TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21528.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",CAROLINE TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21528.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",CC 6 | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9444.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",CD TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21530.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",CD TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21530.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",CGN TV CHINESE | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22239.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",CGTN DOCUMENTARY TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9442.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",CHASSE ET P | SD
+http://titiroq.xyz:25461/live/123412341234/123412341234/9432.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",CHILEVISION | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21529.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",CHILEVISION | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21529.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",CHINA FOOD TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9441.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",CNC | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21531.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",CNC | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21531.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",DATOVISION | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21532.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",DATOVISION | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21532.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",E ENTERTAINMENT CHANNEL | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22227.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",GO SHOP TV CHINESE | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22226.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",HOLVOET TV | HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21533.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",HOLVOET TV | HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21533.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",I VARIETY CHANNEL | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22234.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",ITV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21534.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",ITV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21534.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",KANAL 9 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9274.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",LIVE SHOW CHANNEL | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22231.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",NTD TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22240.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",NTD TV EAST | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22244.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",NTD TV WEST | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22243.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",PROPELLER TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9446.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",PULS 8 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9254.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",QINGYANG PUBLIC TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22238.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",RSI LA 2 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9273.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",RTS DEUX | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9271.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",RTS UN | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9272.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",SRF 1 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9270.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",SRF 1 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9260.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",SRF 2 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9259.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",TV SENADO | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21536.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",TV SENADO | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21536.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",TV5 LINARES | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21538.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",TV5 LINARES | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21538.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",UAT | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21543.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",UAT | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21543.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",UCV TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21539.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",UCV TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21539.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",UES TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21542.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",UES TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21542.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",UMAG TV 2 | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21541.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",UMAG TV 2 | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21541.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",XINJIANG TV 10 | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22223.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",XINJIANG TV 11 | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22224.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",XINJIANG TV 12 | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22225.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",XINJIANG TV 2 | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9439.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",XINJIANG TV 3 | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9438.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",XINJIANG TV 4 | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9437.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",XINJIANG TV 5 | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9435.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",XINJIANG TV 7 | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9434.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",XINJIANG TV 8 | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9433.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",XINJIANG TV 9 | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22222.m3u8

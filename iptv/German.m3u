@@ -1,0 +1,777 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="(DE) Germany",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",1 2 3 TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19065.m3u8
+#EXTINF:0 group-title="(DE) Germany",1 2 3 TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19065.m3u8
+#EXTINF:0 group-title="(DE) Germany",13TH STREET | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8675.m3u8
+#EXTINF:0 group-title="(DE) Germany",2-3 TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15179.m3u8
+#EXTINF:0 group-title="(DE) Germany",2-3 TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15179.m3u8
+#EXTINF:0 group-title="(DE) Germany",3SAT | HD
+http://134.19.181.172:8000/live/fff5/fff5/645.m3u8
+#EXTINF:0 group-title="(DE) Germany",3SAT (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8676.m3u8
+#EXTINF:0 group-title="(DE) Germany",3SAT | SD
+http://134.19.181.172:8000/live/fff5/fff5/857.m3u8
+#EXTINF:0 group-title="(DE) Germany",A TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14144.m3u8
+#EXTINF:0 group-title="(DE) Germany",A TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14144.m3u8
+#EXTINF:0 group-title="(DE) Germany",AIRE SANTA FE | SD
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:0 group-title="(DE) Germany",ALEX BERLIN | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8328.m3u8
+#EXTINF:0 group-title="(DE) Germany",ALEX BERLIN (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8328.m3u8
+#EXTINF:0 group-title="(DE) Germany",ALLGAU TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19066.m3u8
+#EXTINF:0 group-title="(DE) Germany",ALLGAU TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19066.m3u8
+#EXTINF:0 group-title="(DE) Germany",ANIXE | HD
+http://134.19.181.172:8000/live/fff5/fff5/643.m3u8
+#EXTINF:0 group-title="(DE) Germany",ANIXE (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8677.m3u8
+#EXTINF:0 group-title="(DE) Germany",ANIXE | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8776.m3u8
+#EXTINF:0 group-title="(DE) Germany",ARD | HD
+http://134.19.181.172:8000/live/fff5/fff5/642.m3u8
+#EXTINF:0 group-title="(DE) Germany",ARD 1 | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8327.m3u8
+#EXTINF:0 group-title="(DE) Germany",ARD 1 (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8327.m3u8
+#EXTINF:0 group-title="(DE) Germany",ARD-ALPHA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8678.m3u8
+#EXTINF:0 group-title="(DE) Germany",ARTE | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8679.m3u8
+#EXTINF:0 group-title="(DE) Germany",ATV | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9244.m3u8
+#EXTINF:0 group-title="(DE) Germany",ATV 1 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9243.m3u8
+#EXTINF:0 group-title="(DE) Germany",ATV 2 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9242.m3u8
+#EXTINF:0 group-title="(DE) Germany",BADEN TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19067.m3u8
+#EXTINF:0 group-title="(DE) Germany",BADEN TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19067.m3u8
+#EXTINF:0 group-title="(DE) Germany",BADEN-TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8680.m3u8
+#EXTINF:0 group-title="(DE) Germany",BIBEL TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15135.m3u8
+#EXTINF:0 group-title="(DE) Germany",BIBEL TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15135.m3u8
+#EXTINF:0 group-title="(DE) Germany",BIZZ | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15169.m3u8
+#EXTINF:0 group-title="(DE) Germany",BIZZ (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15169.m3u8
+#EXTINF:0 group-title="(DE) Germany",BLIZZ TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15185.m3u8
+#EXTINF:0 group-title="(DE) Germany",BLIZZ TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15185.m3u8
+#EXTINF:0 group-title="(DE) Germany",BLK | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20522.m3u8
+#EXTINF:0 group-title="(DE) Germany",BLK (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20522.m3u8
+#EXTINF:0 group-title="(DE) Germany",BR FERNSEHEN | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20527.m3u8
+#EXTINF:0 group-title="(DE) Germany",BR FERNSEHEN (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20527.m3u8
+#EXTINF:0 group-title="(DE) Germany",BR LIVE | HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10729.m3u8
+#EXTINF:0 group-title="(DE) Germany",BR LIVE (1+) | HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10729.m3u8
+#EXTINF:0 group-title="(DE) Germany",CANAL LAS ESTRELLAS | HD
+http://titiroq.xyz:25461/live/Saad55/Saad55/12922.m3u8
+#EXTINF:0 group-title="(DE) Germany",CHEMNITZ FERNSEHEN | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22109.m3u8
+#EXTINF:0 group-title="(DE) Germany",CHEMNITZ FERNSEHEN (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22109.m3u8
+#EXTINF:0 group-title="(DE) Germany",DAF | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14146.m3u8
+#EXTINF:0 group-title="(DE) Germany",DAF (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14146.m3u8
+#EXTINF:0 group-title="(DE) Germany",DAS ERSTE | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8683.m3u8
+#EXTINF:0 group-title="(DE) Germany",DAS ERSTE (1+) | HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15166.m3u8
+#EXTINF:0 group-title="(DE) Germany",DAS ERSTE (2+) | HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15166.m3u8
+#EXTINF:0 group-title="(DE) Germany",DAS ERSTE | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8777.m3u8
+#EXTINF:0 group-title="(DE) Germany",DAS ERSTE (1+) | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10731.m3u8
+#EXTINF:0 group-title="(DE) Germany",DAS ERSTE (2+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10731.m3u8
+#EXTINF:0 group-title="(DE) Germany",DER AKTION | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20526.m3u8
+#EXTINF:0 group-title="(DE) Germany",DER AKTION (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20526.m3u8
+#EXTINF:0 group-title="(DE) Germany",DER AKTIONAR TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19068.m3u8
+#EXTINF:0 group-title="(DE) Germany",DER AKTIONAR TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19068.m3u8
+#EXTINF:0 group-title="(DE) Germany",DISCOVERY CHANNEL | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8684.m3u8
+#EXTINF:0 group-title="(DE) Germany",DISCOVERY CHANNEL | SD
+http://134.19.181.172:8000/live/fff5/fff5/854.m3u8
+#EXTINF:0 group-title="(DE) Germany",DMAX | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8689.m3u8
+#EXTINF:0 group-title="(DE) Germany",DORF TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22427.m3u8
+#EXTINF:0 group-title="(DE) Germany",DORF TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22427.m3u8
+#EXTINF:0 group-title="(DE) Germany",DRESDEN FERNSEHEN | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10721.m3u8
+#EXTINF:0 group-title="(DE) Germany",DRESDEN FERNSEHEN (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10721.m3u8
+#EXTINF:0 group-title="(DE) Germany",DRF 1 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8690.m3u8
+#EXTINF:0 group-title="(DE) Germany",DW TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8331.m3u8
+#EXTINF:0 group-title="(DE) Germany",DW TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8331.m3u8
+#EXTINF:0 group-title="(DE) Germany",E! ENTERTAINM | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8691.m3u8
+#EXTINF:0 group-title="(DE) Germany",ELBEKANAL | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19071.m3u8
+#EXTINF:0 group-title="(DE) Germany",ELBEKANAL (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19071.m3u8
+#EXTINF:0 group-title="(DE) Germany",EO TV | HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15142.m3u8
+#EXTINF:0 group-title="(DE) Germany",EO TV (1+) | HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15142.m3u8
+#EXTINF:0 group-title="(DE) Germany",EOTV | HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19072.m3u8
+#EXTINF:0 group-title="(DE) Germany",EOTV (1+) | HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19072.m3u8
+#EXTINF:0 group-title="(DE) Germany",EV1 TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22101.m3u8
+#EXTINF:0 group-title="(DE) Germany",EV1 TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22101.m3u8
+#EXTINF:0 group-title="(DE) Germany",EWTN | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15137.m3u8
+#EXTINF:0 group-title="(DE) Germany",EWTN (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15137.m3u8
+#EXTINF:0 group-title="(DE) Germany",FOLKS | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19075.m3u8
+#EXTINF:0 group-title="(DE) Germany",FOLKS (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19075.m3u8
+#EXTINF:0 group-title="(DE) Germany",FOLX TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22432.m3u8
+#EXTINF:0 group-title="(DE) Germany",FOX | SD
+http://134.19.181.172:8000/live/fff5/fff5/860.m3u8
+#EXTINF:0 group-title="(DE) Germany",FRANKEN FERNSEHEN | HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19073.m3u8
+#EXTINF:0 group-title="(DE) Germany",FRANKEN FERNSEHEN (1+) | HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19073.m3u8
+#EXTINF:0 group-title="(DE) Germany",HALLE | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14148.m3u8
+#EXTINF:0 group-title="(DE) Germany",HALLE (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14148.m3u8
+#EXTINF:0 group-title="(DE) Germany",HAMBURG 1 TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15141.m3u8
+#EXTINF:0 group-title="(DE) Germany",HAMBURG 1 TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15141.m3u8
+#EXTINF:0 group-title="(DE) Germany",HEALTH TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15133.m3u8
+#EXTINF:0 group-title="(DE) Germany",HEALTH TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15133.m3u8
+#EXTINF:0 group-title="(DE) Germany",HEART TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20525.m3u8
+#EXTINF:0 group-title="(DE) Germany",HEART TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20525.m3u8
+#EXTINF:0 group-title="(DE) Germany",HEIMATKANAL | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8698.m3u8
+#EXTINF:0 group-title="(DE) Germany",HISTORY | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8699.m3u8
+#EXTINF:0 group-title="(DE) Germany",HSE 24 EXTRA TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15157.m3u8
+#EXTINF:0 group-title="(DE) Germany",HSE 24 EXTRA TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15157.m3u8
+#EXTINF:0 group-title="(DE) Germany",IKONO TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15139.m3u8
+#EXTINF:0 group-title="(DE) Germany",IKONO TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15139.m3u8
+#EXTINF:0 group-title="(DE) Germany",ISAR TV | HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19076.m3u8
+#EXTINF:0 group-title="(DE) Germany",ISAR TV (1+) | HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19076.m3u8
+#EXTINF:0 group-title="(DE) Germany",ISAR TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22103.m3u8
+#EXTINF:0 group-title="(DE) Germany",ISAR TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22103.m3u8
+#EXTINF:0 group-title="(DE) Germany",JUKEBOX | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8701.m3u8
+#EXTINF:0 group-title="(DE) Germany",JUWELO | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8336.m3u8
+#EXTINF:0 group-title="(DE) Germany",JUWELO (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8336.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL 1 | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/428.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL 1 DOKU | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8955.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL EINS | HD
+http://134.19.181.172:8000/live/fff5/fff5/858.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL EINS (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8703.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABEL EINS (2+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8778.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABELJOURNAL TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20523.m3u8
+#EXTINF:0 group-title="(DE) Germany",KABELJOURNAL TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20523.m3u8
+#EXTINF:0 group-title="(DE) Germany",KIKA | HD
+http://134.19.181.172:8000/live/fff5/fff5/648.m3u8
+#EXTINF:0 group-title="(DE) Germany",KIKA (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8704.m3u8
+#EXTINF:0 group-title="(DE) Germany",KIKA | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/426.m3u8
+#EXTINF:0 group-title="(DE) Germany",KIKA (1+) | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/426.m3u8
+#EXTINF:0 group-title="(DE) Germany",KINOWELT TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8674.m3u8
+#EXTINF:0 group-title="(DE) Germany",KKR TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22727.m3u8
+#EXTINF:0 group-title="(DE) Germany",KRONEHIT TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22426.m3u8
+#EXTINF:0 group-title="(DE) Germany",LA VOZ MAR | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22026.m3u8
+#EXTINF:0 group-title="(DE) Germany",LA VOZ MAR (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22026.m3u8
+#EXTINF:0 group-title="(DE) Germany",LEIPZIG FERNSEHEN | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10722.m3u8
+#EXTINF:0 group-title="(DE) Germany",LEIPZIG FERNSEHEN (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10722.m3u8
+#EXTINF:0 group-title="(DE) Germany",MARSEBURG | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14934.m3u8
+#EXTINF:0 group-title="(DE) Germany",MARSEBURG (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14934.m3u8
+#EXTINF:0 group-title="(DE) Germany",MDF 1 | HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19078.m3u8
+#EXTINF:0 group-title="(DE) Germany",MDF 1 (1+) | HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19078.m3u8
+#EXTINF:0 group-title="(DE) Germany",MELODIE EXPRESS TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22430.m3u8
+#EXTINF:0 group-title="(DE) Germany",MUNCHEN TV | HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19079.m3u8
+#EXTINF:0 group-title="(DE) Germany",MUNCHEN TV (1+) | HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19079.m3u8
+#EXTINF:0 group-title="(DE) Germany",MXC | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8848.m3u8
+#EXTINF:0 group-title="(DE) Germany",MXC (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8848.m3u8
+#EXTINF:0 group-title="(DE) Germany",N24 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8779.m3u8
+#EXTINF:0 group-title="(DE) Germany",NAHE TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15138.m3u8
+#EXTINF:0 group-title="(DE) Germany",NAHE TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15138.m3u8
+#EXTINF:0 group-title="(DE) Germany",NAT GEO WILD | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8707.m3u8
+#EXTINF:0 group-title="(DE) Germany",NATIONAL GEOGRAPHIC | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8708.m3u8
+#EXTINF:0 group-title="(DE) Germany",NDLE TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22423.m3u8
+#EXTINF:0 group-title="(DE) Germany",NDLE TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22423.m3u8
+#EXTINF:0 group-title="(DE) Germany",NDR | HD
+http://134.19.181.172:8000/live/fff5/fff5/654.m3u8
+#EXTINF:0 group-title="(DE) Germany",NDR (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8709.m3u8
+#EXTINF:0 group-title="(DE) Germany",NDR (2+) | HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11650.m3u8
+#EXTINF:0 group-title="(DE) Germany",NDR (3+) | HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11650.m3u8
+#EXTINF:0 group-title="(DE) Germany",NICE TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15149.m3u8
+#EXTINF:0 group-title="(DE) Germany",NICE TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15149.m3u8
+#EXTINF:0 group-title="(DE) Germany",NOA 4 HAMBURG | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19081.m3u8
+#EXTINF:0 group-title="(DE) Germany",NOA 4 HAMBURG (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19081.m3u8
+#EXTINF:0 group-title="(DE) Germany",NOA 4 NORDERSTEDT | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19080.m3u8
+#EXTINF:0 group-title="(DE) Germany",NOA 4 NORDERSTEDT (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19080.m3u8
+#EXTINF:0 group-title="(DE) Germany",NRJ TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8711.m3u8
+#EXTINF:0 group-title="(DE) Germany",OBERPFALZ TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19082.m3u8
+#EXTINF:0 group-title="(DE) Germany",OBERPFALZ TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19082.m3u8
+#EXTINF:0 group-title="(DE) Germany",OFFENER KANAL MAGDEBURG | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19083.m3u8
+#EXTINF:0 group-title="(DE) Germany",OFFENER KANAL MAGDEBURG (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19083.m3u8
+#EXTINF:0 group-title="(DE) Germany",OK MAGDEBURG | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14150.m3u8
+#EXTINF:0 group-title="(DE) Germany",OK MAGDEBURG (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14150.m3u8
+#EXTINF:0 group-title="(DE) Germany",OK SALZWEDEL | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14548.m3u8
+#EXTINF:0 group-title="(DE) Germany",OK SALZWEDEL (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14548.m3u8
+#EXTINF:0 group-title="(DE) Germany",OK STENDAL | SD
+http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
+#EXTINF:0 group-title="(DE) Germany",OK TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15164.m3u8
+#EXTINF:0 group-title="(DE) Germany",OK TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15164.m3u8
+#EXTINF:0 group-title="(DE) Germany",OKD TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19084.m3u8
+#EXTINF:0 group-title="(DE) Germany",OKD TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19084.m3u8
+#EXTINF:0 group-title="(DE) Germany",OKTO TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22433.m3u8
+#EXTINF:0 group-title="(DE) Germany",OKTO TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22433.m3u8
+#EXTINF:0 group-title="(DE) Germany",ONE | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8712.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF 1 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9240.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF 1 (1+) | HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19077.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF 1 (2+) | HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19077.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF 2 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9239.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF 2 (1+) | HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20236.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF 2 (2+) | HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20236.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF 3 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9238.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF EINS | SD
+http://134.19.181.172:8000/live/fff5/fff5/865.m3u8
+#EXTINF:0 group-title="(DE) Germany",PEARL TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15134.m3u8
+#EXTINF:0 group-title="(DE) Germany",PEARL TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15134.m3u8
+#EXTINF:0 group-title="(DE) Germany",PELICULA | HD
+http://titiroq.xyz:25461/live/123412341234/123412341234/12918.m3u8
+#EXTINF:0 group-title="(DE) Germany",PER | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22913.m3u8
+#EXTINF:0 group-title="(DE) Germany",PHOENIX | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8713.m3u8
+#EXTINF:0 group-title="(DE) Germany",PLANAI TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22428.m3u8
+#EXTINF:0 group-title="(DE) Germany",PRO 7 MAXX | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/424.m3u8
+#EXTINF:0 group-title="(DE) Germany",PROSIEBEN | HD
+http://134.19.181.172:8000/live/fff5/fff5/861.m3u8
+#EXTINF:0 group-title="(DE) Germany",PROSIEBEN (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8714.m3u8
+#EXTINF:0 group-title="(DE) Germany",PROSIEBEN MAXX | HD
+http://134.19.181.172:8000/live/fff5/fff5/657.m3u8
+#EXTINF:0 group-title="(DE) Germany",PROSIEBEN MAXX | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8715.m3u8
+#EXTINF:0 group-title="(DE) Germany",PULS 4 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9241.m3u8
+#EXTINF:0 group-title="(DE) Germany",PUNKTUM TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22099.m3u8
+#EXTINF:0 group-title="(DE) Germany",PUNKTUM TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22099.m3u8
+#EXTINF:0 group-title="(DE) Germany",QVC | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19093.m3u8
+#EXTINF:0 group-title="(DE) Germany",QVC (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19093.m3u8
+#EXTINF:0 group-title="(DE) Germany",QVC BEAUTY | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10724.m3u8
+#EXTINF:0 group-title="(DE) Germany",QVC BEAUTY (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10724.m3u8
+#EXTINF:0 group-title="(DE) Germany",RAN 1 TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15130.m3u8
+#EXTINF:0 group-title="(DE) Germany",RAN 1 TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15130.m3u8
+#EXTINF:0 group-title="(DE) Germany",RBW | HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20528.m3u8
+#EXTINF:0 group-title="(DE) Germany",RBW (1+) | HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20528.m3u8
+#EXTINF:0 group-title="(DE) Germany",REGIO TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22108.m3u8
+#EXTINF:0 group-title="(DE) Germany",REGIO TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22108.m3u8
+#EXTINF:0 group-title="(DE) Germany",REHEINMAIN TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22726.m3u8
+#EXTINF:0 group-title="(DE) Germany",REHEINMAIN TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22726.m3u8
+#EXTINF:0 group-title="(DE) Germany",RFH TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22097.m3u8
+#EXTINF:0 group-title="(DE) Germany",RFH TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22097.m3u8
+#EXTINF:0 group-title="(DE) Germany",RFO | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19085.m3u8
+#EXTINF:0 group-title="(DE) Germany",RFO (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19085.m3u8
+#EXTINF:0 group-title="(DE) Germany",RHEINMAIN TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19086.m3u8
+#EXTINF:0 group-title="(DE) Germany",RHEINMAIN TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19086.m3u8
+#EXTINF:0 group-title="(DE) Germany",RIC | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15165.m3u8
+#EXTINF:0 group-title="(DE) Germany",RIC (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15165.m3u8
+#EXTINF:0 group-title="(DE) Germany",ROMANCE TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8716.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL | HD
+http://134.19.181.172:8000/live/fff5/fff5/862.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8719.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL (2+) | HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/9501.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL (3+) | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/9501.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL 2 | HD
+http://134.19.181.172:8000/live/fff5/fff5/863.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL 2 (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8717.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL 2 (2+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8781.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL CRIME | HD
+http://134.19.181.172:8000/live/fff5/fff5/649.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL CRIME (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8718.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL NITRO | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8720.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL PASSION | SD
+http://134.19.181.172:8000/live/fff5/fff5/866.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL PASSION (1+) | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8721.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL2 | HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/9503.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL2 (1+) | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/9503.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTL2 | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/430.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTLPLUS | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8722.m3u8
+#EXTINF:0 group-title="(DE) Germany",RTS SALZBURG TV | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22424.m3u8
+#EXTINF:0 group-title="(DE) Germany",RWD | HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15167.m3u8
+#EXTINF:0 group-title="(DE) Germany",RWD (1+) | HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15167.m3u8
+#EXTINF:0 group-title="(DE) Germany",SACHSEN FERNSEHEN | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10726.m3u8
+#EXTINF:0 group-title="(DE) Germany",SACHSEN FERNSEHEN (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10726.m3u8
+#EXTINF:0 group-title="(DE) Germany",SALZWEDEL | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14151.m3u8
+#EXTINF:0 group-title="(DE) Germany",SALZWEDEL (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14151.m3u8
+#EXTINF:0 group-title="(DE) Germany",SANTUARIO FATIMA PORTUGAL | SD
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:0 group-title="(DE) Germany",SAT 1 | HD
+http://134.19.181.172:8000/live/fff5/fff5/856.m3u8
+#EXTINF:0 group-title="(DE) Germany",SAT 1 (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8724.m3u8
+#EXTINF:0 group-title="(DE) Germany",SAT 1 (2+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8783.m3u8
+#EXTINF:0 group-title="(DE) Germany",SAT 1 GOLD | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8723.m3u8
+#EXTINF:0 group-title="(DE) Germany",SAT1 | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/431.m3u8
+#EXTINF:0 group-title="(DE) Germany",SELECT | HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8259.m3u8
+#EXTINF:0 group-title="(DE) Germany",SELECT (1+) | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8253.m3u8
+#EXTINF:0 group-title="(DE) Germany",SELECT (2+) | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8254.m3u8
+#EXTINF:0 group-title="(DE) Germany",SELECT (3+) | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8255.m3u8
+#EXTINF:0 group-title="(DE) Germany",SELECT (4+) | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8256.m3u8
+#EXTINF:0 group-title="(DE) Germany",SELECT (5+) | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8257.m3u8
+#EXTINF:0 group-title="(DE) Germany",SELECT (6+) | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8258.m3u8
+#EXTINF:0 group-title="(DE) Germany",SERVUS TV | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9236.m3u8
+#EXTINF:0 group-title="(DE) Germany",SIXX | HD
+http://134.19.181.172:8000/live/fff5/fff5/859.m3u8
+#EXTINF:0 group-title="(DE) Germany",SIXX (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8725.m3u8
+#EXTINF:0 group-title="(DE) Germany",SIXX (2+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8784.m3u8
+#EXTINF:0 group-title="(DE) Germany",SIXX | SD
+http://54.36.168.168:8000/live/zizo18040/54544452/8024.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY 13 STREET | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8026.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY 13TH STREET | SD
+http://134.19.181.172:8000/live/fff5/fff5/650.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ACTION | HD
+http://134.19.181.172:8000/live/fff5/fff5/651.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ACTION (1+) | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8028.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ACTION | SD
+http://54.36.168.168:8000/live/zizo18040/54544452/8027.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ANIXE | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8029.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ARTS | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8726.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ATLANTIC | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8727.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY ATLANTIC (1+) | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8031.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY AXN | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8033.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY AXN ACTION | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8032.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA | HD
+http://134.19.181.172:8000/live/fff5/fff5/869.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA (1+) | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8040.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 1 | HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8035.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 1 (1+) | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8035.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 1 | SD
+http://54.36.168.168:8000/live/zizo18040/54544452/8034.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 1 VIP | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8673.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 2 | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8036.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 3 VIP | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8670.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 4 LIVE | HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8038.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 4 VIP | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8669.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 5 VIP | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8668.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 6 VIP | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8667.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY COMEDY | HD
+http://134.19.181.172:8000/live/fff5/fff5/674.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY EMOTION | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8048.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY FOX | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8049.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY KRIMI | HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8054.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY KRIMI | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8737.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY NATGEO WILD | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8056.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 3D LIVE | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8803.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 9 | HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8058.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT LIVE 1 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8791.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT LIVE 10 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8800.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT LIVE 11 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8801.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT LIVE 12 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8802.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT LIVE 2 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8792.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT LIVE 3 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8793.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT LIVE 4 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8794.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT LIVE 5 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8795.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT LIVE 6 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8796.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT LIVE 7 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8797.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT LIVE 8 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8798.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT LIVE 9 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8799.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT VITRINE | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8790.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY STORE 1 | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2829.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY STORE 10 | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2820.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY STORE 2 | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2828.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY STORE 3 | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2827.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SYFY | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8063.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY TNT FILME | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8064.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPIEGEL GESCHICHTE | HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8068.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPIEGEL GESCHICHTE (1+) | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8068.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPIEGEL GESCHICHTE | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8755.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPIEGEL GESCHICHTE (1+) | SD
+http://54.36.168.168:8000/live/zizo18040/54544452/8067.m3u8
+#EXTINF:0 group-title="(DE) Germany",SRF 1 | HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8070.m3u8
+#EXTINF:0 group-title="(DE) Germany",SRF 1 (1+) | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8070.m3u8
+#EXTINF:0 group-title="(DE) Germany",SUPER RTL | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8759.m3u8
+#EXTINF:0 group-title="(DE) Germany",SUPER RTL (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8785.m3u8
+#EXTINF:0 group-title="(DE) Germany",SWR BW | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8760.m3u8
+#EXTINF:0 group-title="(DE) Germany",SYFY | HD
+http://134.19.181.172:8000/live/fff5/fff5/868.m3u8
+#EXTINF:0 group-title="(DE) Germany",SYFY (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8761.m3u8
+#EXTINF:0 group-title="(DE) Germany",TAGESSCHAU 24 | SD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8074.m3u8
+#EXTINF:0 group-title="(DE) Germany",TAGESSCHAU24 | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8872.m3u8
+#EXTINF:0 group-title="(DE) Germany",TAGESSCHAU24 (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8872.m3u8
+#EXTINF:0 group-title="(DE) Germany",TELE 5 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8762.m3u8
+#EXTINF:0 group-title="(DE) Germany",TELEVISION LAS TERRENAS | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22030.m3u8
+#EXTINF:0 group-title="(DE) Germany",TELEVISION LAS TERRENAS (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22030.m3u8
+#EXTINF:0 group-title="(DE) Germany",TIROL TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22434.m3u8
+#EXTINF:0 group-title="(DE) Germany",TIROL TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22434.m3u8
+#EXTINF:0 group-title="(DE) Germany",TLC | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8763.m3u8
+#EXTINF:0 group-title="(DE) Germany",TLC (1+) | SD
+http://54.36.111.175:8000/live/ZzQUCDggym/NpcvPnxVVM/1776.m3u8
+#EXTINF:0 group-title="(DE) Germany",TNT COMEDY | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8764.m3u8
+#EXTINF:0 group-title="(DE) Germany",TNT FILM | SD
+http://54.36.168.168:8000/live/zizo18040/54544452/8076.m3u8
+#EXTINF:0 group-title="(DE) Germany",TNT FILM TCM | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8765.m3u8
+#EXTINF:0 group-title="(DE) Germany",TOGGO | SD
+http://134.19.181.172:8000/live/fff5/fff5/864.m3u8
+#EXTINF:0 group-title="(DE) Germany",TRP 1 | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22105.m3u8
+#EXTINF:0 group-title="(DE) Germany",TRP 1 (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22105.m3u8
+#EXTINF:0 group-title="(DE) Germany",TS&STREAMTYPE | SD
+http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/chunklist_w1422058425.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV 38 | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15182.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV 38 (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15182.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV BERLIN | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15171.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV BERLIN (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15171.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV CIDADE PETR | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19109.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV CIDADE PETR (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19109.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV GIRONA | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/12885.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV GIRONA (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12885.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV HALLE | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22100.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV HALLE (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22100.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV M | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19090.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV M (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19090.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV MITTELRHEIN | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22098.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV MITTELRHEIN (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22098.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV OBERFRANKEN | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19089.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV OBERFRANKEN (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19089.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV TOURING | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14268.m3u8
+#EXTINF:0 group-title="(DE) Germany",TV TOURING (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14268.m3u8
+#EXTINF:0 group-title="(DE) Germany",TVA AKTUELLE | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13611.m3u8
+#EXTINF:0 group-title="(DE) Germany",TVA AKTUELLE (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13611.m3u8
+#EXTINF:0 group-title="(DE) Germany",TVA OSTBAYERN | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19088.m3u8
+#EXTINF:0 group-title="(DE) Germany",TVA OSTBAYERN (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19088.m3u8
+#EXTINF:0 group-title="(DE) Germany",UNIVERSAL | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8767.m3u8
+#EXTINF:0 group-title="(DE) Germany",VIVA | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8768.m3u8
+#EXTINF:0 group-title="(DE) Germany",VIVA | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/423.m3u8
+#EXTINF:0 group-title="(DE) Germany",VIVA COMEDY | SD
+http://134.19.181.172:8000/live/fff5/fff5/855.m3u8
+#EXTINF:0 group-title="(DE) Germany",VOX | HD
+http://134.19.181.172:8000/live/fff5/fff5/514.m3u8
+#EXTINF:0 group-title="(DE) Germany",VOX (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8769.m3u8
+#EXTINF:0 group-title="(DE) Germany",VOX (2+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8787.m3u8
+#EXTINF:0 group-title="(DE) Germany",VOX (3+) | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/9500.m3u8
+#EXTINF:0 group-title="(DE) Germany",VOX (4+) | HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15128.m3u8
+#EXTINF:0 group-title="(DE) Germany",VOX (5+) | HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15128.m3u8
+#EXTINF:0 group-title="(DE) Germany",VOX | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/411.m3u8
+#EXTINF:0 group-title="(DE) Germany",VOX (1+) | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/411.m3u8
+#EXTINF:0 group-title="(DE) Germany",W 24 | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22425.m3u8
+#EXTINF:0 group-title="(DE) Germany",WDR | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8770.m3u8
+#EXTINF:0 group-title="(DE) Germany",WDR (1+) | HD
+http://54.36.168.168:8000/live/zizo18040/54544452/8079.m3u8
+#EXTINF:0 group-title="(DE) Germany",WDR (2+) | HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/12245.m3u8
+#EXTINF:0 group-title="(DE) Germany",WDR (3+) | HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12245.m3u8
+#EXTINF:0 group-title="(DE) Germany",WELT DER WUNDER | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19092.m3u8
+#EXTINF:0 group-title="(DE) Germany",WELT DER WUNDER (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19092.m3u8
+#EXTINF:0 group-title="(DE) Germany",WELT DER WUNDER TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15184.m3u8
+#EXTINF:0 group-title="(DE) Germany",WELT DER WUNDER TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15184.m3u8
+#EXTINF:0 group-title="(DE) Germany",WELT N24 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8771.m3u8
+#EXTINF:0 group-title="(DE) Germany",WMZ TV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22106.m3u8
+#EXTINF:0 group-title="(DE) Germany",WMZ TV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22106.m3u8
+#EXTINF:0 group-title="(DE) Germany",WTV | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15172.m3u8
+#EXTINF:0 group-title="(DE) Germany",WTV (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15172.m3u8
+#EXTINF:0 group-title="(DE) Germany",XITE | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8772.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZDF | HD
+http://134.19.181.172:8000/live/fff5/fff5/509.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZDF (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8773.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZDF (2+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8788.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZDFHD | SD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15129.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZDFHD (1+) | SD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15129.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZEE ONE | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8775.m3u8
+#EXTINF:0 group-title="(DE) Germany",ZEE ONE (1+) | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8789.m3u8
