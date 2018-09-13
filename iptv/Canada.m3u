@@ -9,29 +9,63 @@ https://autoiptv.net
 https://autoiptv.net/playlists
 #EXTINF:0 group-title="(CA) Canada",https://autoiptv.net/playlists
 https://autoiptv.net/playlists
+#EXTINF:0 group-title="(CA) Canada",BET | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13383.m3u8
+#EXTINF:0 group-title="(CA) Canada",BRAVO | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13384.m3u8
+#EXTINF:0 group-title="(CA) Canada",CHCH | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13387.m3u8
+#EXTINF:0 group-title="(CA) Canada",CITY TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13388.m3u8
+#EXTINF:0 group-title="(CA) Canada",COOKING CHANNEL | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13433.m3u8
+#EXTINF:0 group-title="(CA) Canada",COTTAGE LIFE | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13390.m3u8
 #EXTINF:0 group-title="(CA) Canada",EET TV TAMIL | SD
 http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+#EXTINF:0 group-title="(CA) Canada",FOX 25 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13395.m3u8
+#EXTINF:0 group-title="(CA) Canada",FXX | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13397.m3u8
+#EXTINF:0 group-title="(CA) Canada",GSN | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13400.m3u8
+#EXTINF:0 group-title="(CA) Canada",HBO | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13438.m3u8
+#EXTINF:0 group-title="(CA) Canada",HBO 2 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13437.m3u8
+#EXTINF:0 group-title="(CA) Canada",HGTV | SD
+http://giantofthefuture.gleeze.com:25461/live/marcos/marcos/4959.m3u8
+#EXTINF:0 group-title="(CA) Canada",HISTORY | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13401.m3u8
+#EXTINF:0 group-title="(CA) Canada",LIFETIME | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13431.m3u8
 #EXTINF:0 group-title="(CA) Canada",MEGA COSMOS | SD
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
-#EXTINF:0 group-title="(CA) Canada",MONTREAL GREEK TV | SD
-http://138.197.136.102:8081/live/greektv/playlist.m3u8
+#EXTINF:0 group-title="(CA) Canada",MUCH | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13430.m3u8
+#EXTINF:0 group-title="(CA) Canada",OMNI 1 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13408.m3u8
+#EXTINF:0 group-title="(CA) Canada",OMNI 2 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13409.m3u8
+#EXTINF:0 group-title="(CA) Canada",ONE | SD
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:0 group-title="(CA) Canada",RADYO RADYO | SD
 http://54.36.111.175:8000/live/ZzQUCDggym/NpcvPnxVVM/574.m3u8
-#EXTINF:0 group-title="(CA) Canada",RADYO RADYO | SD
+#EXTINF:0 group-title="(CA) Canada",RADYO RADYO (1+) | SD
 http://ns3121518.ip-54-36-111.eu:8000/live/ZzQUCDggym/NpcvPnxVVM/574.m3u8
-#EXTINF:0 group-title="(CA) Canada",SALT AND LIGHT TV | SD
-http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+#EXTINF:0 group-title="(CA) Canada",RDS2 TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13412.m3u8
+#EXTINF:0 group-title="(CA) Canada",SILVER SCREEN CLASSICS | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13413.m3u8
+#EXTINF:0 group-title="(CA) Canada",SLICE | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13414.m3u8
+#EXTINF:0 group-title="(CA) Canada",SPIKE | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13415.m3u8
 #EXTINF:0 group-title="(CA) Canada",STAR TV | SD
 http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
-#EXTINF:0 group-title="(CA) Canada",TREEHOUSE | SD
-http://134.19.181.172:8000/live/fff5/fff5/1092.m3u8
-#EXTINF:0 group-title="(CA) Canada",TSN 1 | HD
-http://134.19.181.172:8000/live/fff5/fff5/1952.m3u8
-#EXTINF:0 group-title="(CA) Canada",TSN 2 | HD
-http://134.19.181.172:8000/live/fff5/fff5/1953.m3u8
-#EXTINF:0 group-title="(CA) Canada",TSN 3 | HD
-http://134.19.181.172:8000/live/fff5/fff5/1954.m3u8
-#EXTINF:0 group-title="(CA) Canada",TSN 4 | HD
-http://134.19.181.172:8000/live/fff5/fff5/1955.m3u8
-#EXTINF:0 group-title="(CA) Canada",TSN 5 | HD
-http://134.19.181.172:8000/live/fff5/fff5/1956.m3u8
+#EXTINF:0 group-title="(CA) Canada",TELE QUEBEC | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13429.m3u8
+#EXTINF:0 group-title="(CA) Canada",TELETOON | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13422.m3u8
+#EXTINF:0 group-title="(CA) Canada",TRAVEL CHANNEL | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13424.m3u8

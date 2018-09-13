@@ -9,77 +9,373 @@ https://autoiptv.net
 https://autoiptv.net/playlists
 #EXTINF:0 group-title="(EX-YU) Slovenia",https://autoiptv.net/playlists
 https://autoiptv.net/playlists
+#EXTINF:0 group-title="(EX-YU) Slovenia",24 KITCHEN | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13032.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",A TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13031.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",A1 BALCAN | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13030.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",A1 EXLUSIVE | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13029.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ALFA LOCAL | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13026.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ANIMAL PLANET | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13025.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ATLAS TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13014.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",AXN ADRIA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13013.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",B 92 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13012.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",B92 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13011.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",B92 LOCAL | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13010.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",BALKANIKA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13036.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",BELLE AMIE | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13009.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",BHT | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13008.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",BHT 1 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13007.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",BOSNA TV 1 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13003.m3u8
 #EXTINF:0 group-title="(EX-YU) Slovenia",CANAL ANDALUCIA | SD
 http://titiroq.xyz:25461/live/123412341234/123412341234/6379.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",HAPPY TV | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8579.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",HON | SD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22306.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",HRAM TV | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8575.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",HUN | SD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22454.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",K23 TV | SD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22707.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",N1 TV | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8574.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",NOVI PAZAR | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8573.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",O2 TV | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8580.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",PANNON RTV | SD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22702.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",PRVA | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8587.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",PRVA KICK | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8583.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",PRVA MAX | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8584.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",PRVA PLUS | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8585.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",PRVA TV | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8586.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",PULS TV | SD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22698.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",COMEDY CENTRAL | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13001.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",CRIME & INVESTIGATION | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/13000.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",DA VINCI LEARNING | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12999.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",DISCOVERY SERBIA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12998.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",DM SAT | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12997.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",DOCUBOX | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12996.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",DUGA TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12995.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ERA TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12993.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",EST | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12808.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",EST (1+) | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12809.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FEDERALNA TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12990.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FILM | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12980.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FILM (1+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12981.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FILM (2+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12982.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FILM (3+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12983.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FILM (4+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12984.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FILM (5+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12985.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FILM (6+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12986.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FILM (7+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12987.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FILM (8+) | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12988.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FOX | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2617.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FOX CRIME | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12979.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FOX LIFE | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12978.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",GRAND 2 TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12976.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",GRAND TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12975.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAPPY | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12974.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAPPY LOCAL | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12973.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAPPY PAROVI | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8578.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAYAT | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12970.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAYAT FOLK | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12971.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAYAT PLUS | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12968.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAYAT PLUS (1+) | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3402.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAYAT TV | HD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3403.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HAYATOVCI | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12967.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HBO | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12963.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HBO 2 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12962.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HBO 2 (1+) | HD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3404.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HBO 2 SLO | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12966.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HBO 3 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12965.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HBO COMEDY | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12964.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HISTORY 2 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12961.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HNTV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12960.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HRAM ORTODOX | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12959.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",HRT 3 | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3438.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ID DISCOVERY | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12958.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ISTOK TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12957.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",IZVORNA TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12956.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",JUGOTON TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12955.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",KCN 1 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12954.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",KCN 2 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12953.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",KLADOVO | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12951.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",KLASIK TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12950.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",LOV I RIBOLOV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12948.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",MIM TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12946.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",MINI TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12944.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",MINI TV (1+) | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12945.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",MINIMAX | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12942.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",NAT GEO WILD | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12938.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",NATIONAL GEOGRAPHIC | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12937.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",NOVA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12934.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",OBN | HD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2606.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",OBN | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12932.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",OBN (1+) | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3435.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ORBIS | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8553.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",OSIJECKA TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/8328.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",OTV VALENTINO | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12930.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PARTIZAN | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12929.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12928.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK (1+) | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2620.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK & ROLL | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12927.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK 1 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12926.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK 1 RESERVE | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12925.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK 3 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12923.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK 3 (1+) | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12924.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK 3 (2+) | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3425.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK ACTION | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12922.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK BH | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12921.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK CLASSIC | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12920.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK COMEDY | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12919.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK CRIME & MYSTERY | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12918.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK CRIME&MYSTERY | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12917.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK EXTRA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12916.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK EXTRA (1+) | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3415.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK FILM | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12914.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK FILM (1+) | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3408.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK FOLK | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12913.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK FOLK 1 | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3417.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK FOLK 2 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12912.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK HAHA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12911.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK HITS 2 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12910.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK HORROR | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12909.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK HORROR (1+) | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3418.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK KONCERT | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12907.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK KUVAR | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12906.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK LOL | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12905.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK M | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12904.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK PEDIA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12900.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK PEDIA (1+) | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3420.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK PLUS | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12899.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK PLUS (1+) | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3424.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK PLUS TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12898.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK PREMIUM | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12897.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK PREMIUM (1+) | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3411.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK REALITY | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12896.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK REALITY (1+) | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3412.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK ROMANCE | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12895.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK SCI-FI & FANTASY | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12894.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK SCI-FI&FANTASY | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12893.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK SHOW | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12891.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK SOAP | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12890.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK THRILLER | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12888.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK WESTERN | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12887.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK ZABAVA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12884.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK2 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12882.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK2 (1+) | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12883.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PLANET TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12881.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",POP BRIO | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12880.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",POP OTO | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12879.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",POSAVINA TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12878.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PTC CATELIT | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12877.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",PTPC PLUS | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12876.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ROMA TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12875.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTCG 1 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12871.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTCG 2 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12870.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTCG SAT | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12869.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTL | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12868.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTRS | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12866.m3u8
 #EXTINF:0 group-title="(EX-YU) Slovenia",RTS | HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8597.m3u8
+http://145.239.0.158:8080/live/mehmet/mehmet123/12859.m3u8
 #EXTINF:0 group-title="(EX-YU) Slovenia",RTS 1 | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8596.m3u8
+http://145.239.0.158:8080/live/mehmet/mehmet123/12865.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTS 1 (1+) | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2624.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTS 1 LOCAL | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12864.m3u8
 #EXTINF:0 group-title="(EX-YU) Slovenia",RTS 2 | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8595.m3u8
+http://145.239.0.158:8080/live/mehmet/mehmet123/12863.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTS 2 (1+) | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2625.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTS 2 LOCAL | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12862.m3u8
 #EXTINF:0 group-title="(EX-YU) Slovenia",RTS 3 | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8594.m3u8
+http://145.239.0.158:8080/live/mehmet/mehmet123/12861.m3u8
 #EXTINF:0 group-title="(EX-YU) Slovenia",RTS DRAMA | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8593.m3u8
+http://145.239.0.158:8080/live/mehmet/mehmet123/12860.m3u8
 #EXTINF:0 group-title="(EX-YU) Slovenia",RTS KOLO | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8589.m3u8
+http://145.239.0.158:8080/live/mehmet/mehmet123/12858.m3u8
 #EXTINF:0 group-title="(EX-YU) Slovenia",RTS MUZIKA | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8588.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",RTS SVET | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8591.m3u8
+http://145.239.0.158:8080/live/mehmet/mehmet123/12857.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTS SATELIT | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12856.m3u8
 #EXTINF:0 group-title="(EX-YU) Slovenia",RTS TREZOR | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8592.m3u8
+http://145.239.0.158:8080/live/mehmet/mehmet123/12855.m3u8
 #EXTINF:0 group-title="(EX-YU) Slovenia",RTS ZIVOT | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8590.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",RTV MIR | SD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22701.m3u8
+http://145.239.0.158:8080/live/mehmet/mehmet123/12854.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTV AS | SD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2607.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTV NOVI PAZAR | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12853.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTV USK | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12852.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",RTV ZENICA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12851.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SAGAR TV | SD
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="(EX-YU) Slovenia",SANDZAK TV | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8572.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",STUDIO B TV | SD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22699.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",TOP | HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8581.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",TOP CHANNEL | SD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11294.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",TV 14 | SD
-http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",TV CANAL 14 | SD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11588.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",TV CANAL 14 (1+) | SD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14141.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",TV CANAL 14 (2+) | SD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14141.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",TV DUGA | SD
-http://145.239.0.158:8080/live/mehmet/mehmet123/8571.m3u8
-#EXTINF:0 group-title="(EX-YU) Slovenia",TV N1 BEOGRAD | SD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11295.m3u8
+http://145.239.0.158:8080/live/mehmet/mehmet123/12850.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SHUTEL TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12849.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SLOVENIA TV 1 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12848.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SOBRANISKI KANAL LOCAL | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12847.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",SOS LOCAL | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12846.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",STUDENTSKA TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12832.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",STUDIO B | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12831.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TARAF TV | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12830.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TK TUZLA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12829.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TLC LOCAL | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12828.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV 1 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12825.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV 1000 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12824.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV 3 SLO | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12823.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV 5 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12822.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV GLAS DRINE | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12820.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV HRAM | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12819.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV NASHA LOCAL | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12818.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV S SARAJEVO | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12816.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV SEHARA | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12815.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV5 | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12814.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV5 BOSNA | SD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2613.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",TVSA SARAJEVO | SD
+http://145.239.0.158:8080/live/mehmet/mehmet123/12813.m3u8
