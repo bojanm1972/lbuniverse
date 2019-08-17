@@ -1,5 +1,5 @@
-# EXTM3U iptv
-EXTINF: 0, Sky Cinema 1
+#EXTM3U
+#EXTINF: 0, Sky Cinema 1
 http://m3u.iptvstreaming.org:25461/live/esclusivemusic@gmail.com/mkfgczfezwsbjoa8votr/1087.ts
 #EXTINF: 0, Sky Cinema 24
 http://m3u.iptvstreaming.org:25461/live/esclusivemusic@gmail.com/mkfgczfezwsbjoa8votr/1094.ts
